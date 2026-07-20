@@ -5,6 +5,8 @@ __pycache__/
 # Virtual Environments
 venv/
 backend/venv/
+trustqa_env
+backend/trustqa_env/
 
 # Environment variables
 .env
