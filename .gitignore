@@ -17,3 +17,15 @@ backend/trustqa_env/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Models
+models/
+backend/models/
+*.gguf
+
+# HuggingFace cache
+.cache/
+huggingface/
+
+# Logs
+*.log
