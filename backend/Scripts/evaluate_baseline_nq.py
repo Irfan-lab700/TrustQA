@@ -3,10 +3,7 @@ import re
 import string
 from collections import Counter
 
-
-# -------------------------
 # Normalization
-# -------------------------
 
 def normalize(text):
 
@@ -27,10 +24,7 @@ def normalize(text):
 
     return text
 
-
-# -------------------------
 # Exact Match
-# -------------------------
 
 def exact_match(prediction, ground_truth):
 
@@ -41,9 +35,7 @@ def exact_match(prediction, ground_truth):
     )
 
 
-# -------------------------
 # Token F1
-# -------------------------
 
 def f1_score(prediction, ground_truth):
 
@@ -71,10 +63,7 @@ def f1_score(prediction, ground_truth):
         (precision + recall)
     )
 
-
-# -------------------------
 # Load Results
-# -------------------------
 
 with open(
     "results/baseline_llm_nq_new.json",
@@ -84,9 +73,7 @@ with open(
 
     data = json.load(f)
 
-# -------------------------
 # Evaluate
-# -------------------------
 
 total = len(data)
 
@@ -117,9 +104,7 @@ for sample in data:
     em_total += best_em
     f1_total += best_f1
 
-# -------------------------
 # Final Metrics
-# -------------------------
 
 em = em_total / total
 f1 = f1_total / total

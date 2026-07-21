@@ -1,0 +1,5103 @@
+[
+  {
+    "question": "In what country were the earthquakes that caused the postponement of the race in which Oliver Turvey had a Super GT commitment?",
+    "gold_answers": [
+      "Japan"
+    ],
+    "prediction": "Japan"
+  },
+  {
+    "question": "How long was the reign of the person who annexed  Aurangabad, Maharashtra in 1308?",
+    "gold_answers": [
+      "20"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "When was the museum that keeps specimens of pigeons built?",
+    "gold_answers": [
+      "1851"
+    ],
+    "prediction": "1889"
+  },
+  {
+    "question": "Which of the two extinct birds went extinct first?",
+    "gold_answers": [
+      "\n\nThe dodo"
+    ],
+    "prediction": "Dodo"
+  },
+  {
+    "question": "How many species of pigeons are there?",
+    "gold_answers": [
+      "310"
+    ],
+    "prediction": "1000+"
+  },
+  {
+    "question": "How long did the battle in which Union troops deployed artillery westward to the Peach Orchard using Wheatfield Road last?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "Two hours."
+  },
+  {
+    "question": "How old was the railway that was laid on Wheatfield road in 1894?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "130"
+  },
+  {
+    "question": "What is the real name of the wrestler who Virus was partnered with in the Torneo Gran Alternativa?",
+    "gold_answers": [
+      "Genaro Vázquez Nevarez"
+    ],
+    "prediction": "Cristo"
+  },
+  {
+    "question": "Which of the wrestlers that Virus and his teammate defeated in the first round of  the Torneo Gran Alternativa is older?",
+    "gold_answers": [
+      "Mr. Niebla"
+    ],
+    "prediction": "Virus"
+  },
+  {
+    "question": "Who founded the wrestling organization where Virus represented CMLL in  the summer of 2006?",
+    "gold_answers": [
+      "Shohei \"Giant\" Baba and the Momota brothers, Mitsuo and Yoshihiro"
+    ],
+    "prediction": "Miguel Colon"
+  },
+  {
+    "question": "What city is the museum located where Bronze examples of the Assyrian design are kept?",
+    "gold_answers": [
+      "London, United Kingdom"
+    ],
+    "prediction": "Moscow"
+  },
+  {
+    "question": "Of the wrestlers who attended or wanted to attend the Killer Kowalski Memorial Show has won the most championships in their careers?",
+    "gold_answers": [
+      "Ox Baker"
+    ],
+    "prediction": "Hulk Hogan"
+  },
+  {
+    "question": "What age bracket plays for the Real Madrid's youth system?",
+    "gold_answers": [
+      " under-19"
+    ],
+    "prediction": "Under 23"
+  },
+  {
+    "question": "What team did Mile Svilar play for his rookie year?",
+    "gold_answers": [
+      "Benfica"
+    ],
+    "prediction": "Milan Steelers"
+  },
+  {
+    "question": "How many La Liga championships has Valencia won?",
+    "gold_answers": [
+      "six"
+    ],
+    "prediction": "6"
+  },
+  {
+    "question": "What age was Bridges when he starred on Loving?",
+    "gold_answers": [
+      "1983"
+    ],
+    "prediction": "17"
+  },
+  {
+    "question": "Which of the featured film actors was older when Loving premiered?",
+    "gold_answers": [
+      "Lloyd Bridges\n"
+    ],
+    "prediction": "Gene Hackman"
+  },
+  {
+    "question": "Who is the current editor-in-chief for the newspaper that Miller once worked for as a profile and comment writer?",
+    "gold_answers": [
+      "Katharine Viner"
+    ],
+    "prediction": "Eileen Murphy Burke"
+  },
+  {
+    "question": "Who was the founder of the promotion Yamada joined in April of 1999?",
+    "gold_answers": [
+      "Super Delfin"
+    ],
+    "prediction": "Yoshitaka Yamada"
+  },
+  {
+    "question": "What was the real name of the wrestler Buffalo defeated in order to win his first title in Osaka Pro?",
+    "gold_answers": [
+      "Hiroto Wakita "
+    ],
+    "prediction": "Masahiro Chono"
+  },
+  {
+    "question": "How old was the wrestler when he won the tag team title championship along with Murahama on August 24?",
+    "gold_answers": [
+      "28"
+    ],
+    "prediction": "25"
+  },
+  {
+    "question": "What is the age difference between the actresses who signed for Puli in 2015?",
+    "gold_answers": [
+      "5"
+    ],
+    "prediction": "5 years"
+  },
+  {
+    "question": "How old was Andrew Yarranton when he visited Dresden?",
+    "gold_answers": [
+      "17"
+    ],
+    "prediction": "Unknown"
+  },
+  {
+    "question": "What age was Dud Dudley when a patent was granted to him?",
+    "gold_answers": [
+      "62"
+    ],
+    "prediction": "17"
+  },
+  {
+    "question": "How old was Philip Foley when he erected Woverly Lower Mill?",
+    "gold_answers": [
+      "22"
+    ],
+    "prediction": "21"
+  },
+  {
+    "question": "What is the population of the city where Odhner was born?",
+    "gold_answers": [
+      "972,647"
+    ],
+    "prediction": "2.2 million"
+  },
+  {
+    "question": "Where is the person who scored for Union Berlin in the season opener from?",
+    "gold_answers": [
+      " West Berlin."
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "What version of Windows had most recently been released when The Settlers: Heritage of Kings was released in North America?",
+    "gold_answers": [
+      "Windows XP"
+    ],
+    "prediction": "Windows 7"
+  },
+  {
+    "question": "Which firm had been in business longer when the game was first released, the developer or the publisher?",
+    "gold_answers": [
+      "Ubi Soft "
+    ],
+    "prediction": "Developer"
+  },
+  {
+    "question": "What year was the Abbey that Queen Elizabeth was visiting built?",
+    "gold_answers": [
+      "1222 "
+    ],
+    "prediction": "1220"
+  },
+  {
+    "question": "What country was the university Sadeq Tabatabaei got his doctorate from located in?",
+    "gold_answers": [
+      "Germany"
+    ],
+    "prediction": "Iran"
+  },
+  {
+    "question": "How long was Shah Mohammad Reza Pahlavi in power?",
+    "gold_answers": [
+      "37"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "What year did the magazine that Sadeq Tabatabaei had material in begin publication?",
+    "gold_answers": [
+      "1957"
+    ],
+    "prediction": "1947"
+  },
+  {
+    "question": "How long had The Observer been operating as a going concern the year Harrisson started working there as a radio critic?",
+    "gold_answers": [
+      "151"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "What number season of Molde FK was the 1999 season?",
+    "gold_answers": [
+      "24th "
+    ],
+    "prediction": "5"
+  },
+  {
+    "question": "How long had Harold Wilson been leader of the Labour government when the Kilbrandon Commission was set up?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "12 years"
+  },
+  {
+    "question": "Which parliament governed Scotland for the greatest number of years?",
+    "gold_answers": [
+      "Parliament of the United Kingdom"
+    ],
+    "prediction": "The Parliament of Westminster"
+  },
+  {
+    "question": "Where was the founder of the Quakers born?",
+    "gold_answers": [
+      "Drayton-in-the-Clay, Leicestershire, England"
+    ],
+    "prediction": "England"
+  },
+  {
+    "question": "Of the two teams that were unrepresented in the Madden NFL 12 tournament, who had the best record in the 2011-12 season?",
+    "gold_answers": [
+      "Denver Broncos"
+    ],
+    "prediction": "Minnesota Vikings"
+  },
+  {
+    "question": "When did the vote on Norick's plan occur?",
+    "gold_answers": [
+      "December, 1993"
+    ],
+    "prediction": "2023"
+  },
+  {
+    "question": "How old was J.D. Sumner when Tony Brown joined the Stamps Quartet?",
+    "gold_answers": [
+      "42"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "How long had the Blackwood Brothers been performing when Tony Brown traveled with them?",
+    "gold_answers": [
+      "38"
+    ],
+    "prediction": "25 years"
+  },
+  {
+    "question": "How old was Elvis Presley when Tony Brown joined him for the recording sessions at Graceland?",
+    "gold_answers": [
+      "41"
+    ],
+    "prediction": "23"
+  },
+  {
+    "question": "How old was Glenn d. Hardin when Tony Brown replaced him on the Hot Band?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "49"
+  },
+  {
+    "question": "How old was Emmylou Harris when Tony Brown left her band?",
+    "gold_answers": [
+      "34"
+    ],
+    "prediction": "49"
+  },
+  {
+    "question": "Besides Umbriel, what are the names of the moons that orbit Uranus?",
+    "gold_answers": [
+      "Miranda",
+      "Ariel",
+      "Titania",
+      "Oberon"
+    ],
+    "prediction": "Miranda, Ariel, Titania, Oberon"
+  },
+  {
+    "question": "When was the car manufacturer of the Javelin founded?",
+    "gold_answers": [
+      " 1 May 1954"
+    ],
+    "prediction": "1953"
+  },
+  {
+    "question": "What did the monuments look like that first started to appear in the British Isles in the later 16th century?",
+    "gold_answers": [
+      "tall, four-sided, narrow tapering monument which ends in a pyramid-like shape or pyramidion at the top"
+    ],
+    "prediction": "Round towers."
+  },
+  {
+    "question": "What was architect's  age when the Wakeman obelisk was set in the square at Richmond, Yorkshire?",
+    "gold_answers": [
+      "41"
+    ],
+    "prediction": "80"
+  },
+  {
+    "question": "What is the area in square miles of the town where Thomas Coke has a obelisk set up in the park he created?",
+    "gold_answers": [
+      "9.23"
+    ],
+    "prediction": "1.5"
+  },
+  {
+    "question": "How many children do both of the architects who designed obelisks have between them?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "Which obelisk architect mentioned lived a longer life?",
+    "gold_answers": [
+      "Anthony Salvin"
+    ],
+    "prediction": "Horus-Behudety lived longer."
+  },
+  {
+    "question": "What year was the estate where Salvin used obelisks as water fountains built?",
+    "gold_answers": [
+      "1838"
+    ],
+    "prediction": "1749"
+  },
+  {
+    "question": "What is the current population of the city where Bricher began his career as a businessman?  ",
+    "gold_answers": [
+      "673,184"
+    ],
+    "prediction": "12.8 million"
+  },
+  {
+    "question": "When was the school where Bricher studied in Boston founded?",
+    "gold_answers": [
+      "1839"
+    ],
+    "prediction": "1764"
+  },
+  {
+    "question": "In what country did  Bricher produce Morning at Grand Manan?",
+    "gold_answers": [
+      "Canada"
+    ],
+    "prediction": "Canada"
+  },
+  {
+    "question": "What is the difference in population between the city where Bricher began his career as a businessman and the city where he moved in 1868?",
+    "gold_answers": [
+      "7725564"
+    ],
+    "prediction": "1.5 million"
+  },
+  {
+    "question": "When was the organization that Bricher was elected to in 1879 founded?",
+    "gold_answers": [
+      "1825 "
+    ],
+    "prediction": "1848"
+  },
+  {
+    "question": "How long did the event that Animal farm reflecst the events leading to last?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "Where was the person who Orwell was a critic of born?",
+    "gold_answers": [
+      "Gori"
+    ],
+    "prediction": "India"
+  },
+  {
+    "question": "Who was the head coach of the team that Blackpool Borough had formed in 2004?",
+    "gold_answers": [
+      "Mark Lee"
+    ],
+    "prediction": "Steve Evans"
+  },
+  {
+    "question": "How many teams were in the league that the Panthers played in in 2004?",
+    "gold_answers": [
+      "14 teams"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "How old was the squire that Palman was in service of when Palman inherited the family holdings?",
+    "gold_answers": [
+      "43"
+    ],
+    "prediction": "60"
+  },
+  {
+    "question": "Which pitcher that opened the series was older?",
+    "gold_answers": [
+      "Jacob Edward Peavy"
+    ],
+    "prediction": "Clayton Kershaw"
+  },
+  {
+    "question": "What age was Michael Jackson the year Enjoy Yourself was recorded as a single?",
+    "gold_answers": [
+      "18"
+    ],
+    "prediction": "14"
+  },
+  {
+    "question": "How many sales are required to get the certification from the RIAA that Enjoy Yourself recieved in 1989?",
+    "gold_answers": [
+      "for albums able to sell one million units, and singles selling two million units"
+    ],
+    "prediction": "1000000"
+  },
+  {
+    "question": "Was the founder of the strong LDP faction or the man whose hands it later fell into older?",
+    "gold_answers": [
+      " Kakuei Tanaka"
+    ],
+    "prediction": "The founder was older."
+  },
+  {
+    "question": "What year was the party established that the LDP entered into a ruling coalition with in 1994?",
+    "gold_answers": [
+      "1945 "
+    ],
+    "prediction": "1993"
+  },
+  {
+    "question": "How long did it take to construct the Ekaterinburg (K-84)?",
+    "gold_answers": [
+      "46"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "How old was  Selimović when the Second World War began?",
+    "gold_answers": [
+      "29"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "What year did the Bougainville Campaign begin?",
+    "gold_answers": [
+      "1943"
+    ],
+    "prediction": "1944"
+  },
+  {
+    "question": "In what country is the venue located where Kalivodová made her first appearance in 2002?",
+    "gold_answers": [
+      "Czech Republic"
+    ],
+    "prediction": "Czech Republic"
+  },
+  {
+    "question": "How many years did the war last for which the 60th anniversary of its end was celebrated by the 2005 European Stars' Tour?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "5"
+  },
+  {
+    "question": "When did the soap opera that used the song \"Cotton's Dream\" as it's theme first air?",
+    "gold_answers": [
+      "March 26, 1973"
+    ],
+    "prediction": "1952"
+  },
+  {
+    "question": "How old was Frankel when it won the Dewhurst Stakes?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "6"
+  },
+  {
+    "question": "What year did the First English Civil War begin?",
+    "gold_answers": [
+      "1642"
+    ],
+    "prediction": "1642"
+  },
+  {
+    "question": "When was the record label that released the Streetcleaner album formed?",
+    "gold_answers": [
+      "1985"
+    ],
+    "prediction": "1997"
+  },
+  {
+    "question": "How did the frontal sexual position depicted frequently in early Sumerian art get its name?",
+    "gold_answers": [
+      "English-speaking Christian missionaries"
+    ],
+    "prediction": "By name of \"fertile crescent\""
+  },
+  {
+    "question": "When was the beverage that many Mesopotamian women enjoyed drinking through a straw first discovered?",
+    "gold_answers": [
+      "(around 8500 BC to 5500 BC"
+    ],
+    "prediction": "3500 BCE"
+  },
+  {
+    "question": "In Assyrian mythology, what siblings did the goddess of sex and prostitution have?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "Astarte and Ishtar"
+  },
+  {
+    "question": "When was the city that contained Inanna's temple founded?",
+    "gold_answers": [
+      "(2025"
+    ],
+    "prediction": "3500 BCE"
+  },
+  {
+    "question": "What material were the symbols used by the Assyrians made of?",
+    "gold_answers": [
+      " clay, metal, wood, glass, and today plastic or resin "
+    ],
+    "prediction": "Bronze"
+  },
+  {
+    "question": "What country was Hurst born in?",
+    "gold_answers": [
+      "England"
+    ],
+    "prediction": "Australia"
+  },
+  {
+    "question": "Which of Hurst's grammar schools was founded earlier?",
+    "gold_answers": [
+      "Manchester Grammar School"
+    ],
+    "prediction": "King's College, Cambridge"
+  },
+  {
+    "question": "What city did Hurst work in during 1906?",
+    "gold_answers": [
+      "London"
+    ],
+    "prediction": "New York City"
+  },
+  {
+    "question": "What ocean are the Azores located?",
+    "gold_answers": [
+      "Atlantic Ocean"
+    ],
+    "prediction": "Atlantic"
+  },
+  {
+    "question": "What is the population of the country where the UNESCO World Heritage Site Historic Monuments of Ancient Nara are located?",
+    "gold_answers": [
+      " 126.3 million"
+    ],
+    "prediction": "37 million"
+  },
+  {
+    "question": "Which side was victorious in the battle that Almaz was at on November 5 1914?",
+    "gold_answers": [
+      "Russians "
+    ],
+    "prediction": "German side"
+  },
+  {
+    "question": "What is the number of degrees difference between an abnormal increase in the angle with the shaft compared to an abnormal reduction in the angle.",
+    "gold_answers": [
+      "15"
+    ],
+    "prediction": "30"
+  },
+  {
+    "question": "What happens to the length of the leg if there is an abnormal reduction in the angle of the shaft?",
+    "gold_answers": [
+      "shortened "
+    ],
+    "prediction": "The length of the leg decreases."
+  },
+  {
+    "question": "How old was Guillaume Brune the year Lapisse was appointed chef de brigade of the 36th Lien infantry Demi-brigade?",
+    "gold_answers": [
+      "36"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "How long did the Korean War last?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "1 year and 9 months"
+  },
+  {
+    "question": "On what date did North Korea invade South Korea at the start of the war?",
+    "gold_answers": [
+      "25 June 1950"
+    ],
+    "prediction": "June 25, 1950"
+  },
+  {
+    "question": "Did the Battle of Pakchon take place in North Korea or in South Korea?",
+    "gold_answers": [
+      "North Korea"
+    ],
+    "prediction": "In South Korea."
+  },
+  {
+    "question": "What is the elevation of the city where Giunta earned her performance diploma?",
+    "gold_answers": [
+      "from 76.5 m above sea level at the Lake Ontario shore to 209 m ASL near the York University"
+    ],
+    "prediction": "500 meters"
+  },
+  {
+    "question": "Where did the person Giunta studied with in New York study?",
+    "gold_answers": [
+      "Oberlin College",
+      "Columbia Bible College"
+    ],
+    "prediction": "The New York Studio of Art and Design"
+  },
+  {
+    "question": "In what country did the regiment land in on the seventh of June, 1944?",
+    "gold_answers": [
+      "France"
+    ],
+    "prediction": "Normandy"
+  },
+  {
+    "question": "What regiment was the commander of the Tiger tank that cut off the Rifle Brigade from?",
+    "gold_answers": [
+      "Leibstandarte SS Adolf Hitler"
+    ],
+    "prediction": "7th Panzer"
+  },
+  {
+    "question": "How long had Cape Colony been established when the Diocese of Grahamstown was created?",
+    "gold_answers": [
+      "39"
+    ],
+    "prediction": "100 years"
+  },
+  {
+    "question": "Who did the 197th fight against in the Battle for Caen?",
+    "gold_answers": [
+      "German"
+    ],
+    "prediction": "German forces"
+  },
+  {
+    "question": "Which of the three artists that Maxim Bugzester worked with created the work that sold for the highest price?",
+    "gold_answers": [
+      "Bonnard"
+    ],
+    "prediction": "Vincent van Gogh"
+  },
+  {
+    "question": "How old was the manager of the Movistar team when the 2015 Vuelta a Espana began?",
+    "gold_answers": [
+      "60"
+    ],
+    "prediction": "42"
+  },
+  {
+    "question": "Which location has a higher elevation, where the sixth stage finished or where the first category of the seventh stage finish?",
+    "gold_answers": [
+      "Alpujarra"
+    ],
+    "prediction": "First category of the seventh stage finish"
+  },
+  {
+    "question": "In what year did Jordan Roth buy 50% of Jujamcyn?",
+    "gold_answers": [
+      "2009"
+    ],
+    "prediction": "2018"
+  },
+  {
+    "question": "How old was Harry Doll the year the Supreme Court ruled to remove prayer from public schools?",
+    "gold_answers": [
+      "59"
+    ],
+    "prediction": "80"
+  },
+  {
+    "question": "Which publication that Cannon contributed more substantial articles to came into existence first?",
+    "gold_answers": [
+      "Chicago Sun-Times"
+    ],
+    "prediction": "The New Yorker"
+  },
+  {
+    "question": "What is the middle name of the person who performed at the 1970 Palermo Pop Festival?",
+    "gold_answers": [
+      "Vincent"
+    ],
+    "prediction": "Pauline Quichojo"
+  },
+  {
+    "question": "What type of ship was Eclipse?",
+    "gold_answers": [
+      " Solstice-class"
+    ],
+    "prediction": "Merchant ship"
+  },
+  {
+    "question": "How many years had Pope Paul III been Pope for the year Mignanelli traveled to Nice?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "How long had the Dunedin Blue Jays been a team when Devon Travis joined them for rehab?",
+    "gold_answers": [
+      "38"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "Who was the manager for Boston Red Sox when Travis hit a infield single for the Blue Jays?",
+    "gold_answers": [
+      "John Farrell"
+    ],
+    "prediction": "John Abbot"
+  },
+  {
+    "question": "Who was the manager for the Kansas City Royals when Travis hit two home runs against them?",
+    "gold_answers": [
+      "Ned Yost"
+    ],
+    "prediction": "Mike Matheny"
+  },
+  {
+    "question": "Who first created the yoga form that later became a long-lasting craze in the United States?",
+    "gold_answers": [
+      "K. Pattabhi Jois "
+    ],
+    "prediction": "B.K.S. Iyengar"
+  },
+  {
+    "question": "What year was Bikram Choudhury's bodybuilder teacher born?",
+    "gold_answers": [
+      "1903"
+    ],
+    "prediction": "1929"
+  },
+  {
+    "question": "Which party had more support the year Henke joined the KPD, the NSDAP or the KPD?",
+    "gold_answers": [
+      " KPD"
+    ],
+    "prediction": "NSDAP"
+  },
+  {
+    "question": "In which pennant winning year did the Philadelphia Athletics win the most games?",
+    "gold_answers": [
+      "1931"
+    ],
+    "prediction": "1913"
+  },
+  {
+    "question": "Of the two teams that played in the world series the year the Philadelphia Athletics lost the Series, which had a better record of wins to losses in the regular season.",
+    "gold_answers": [
+      " Athletics"
+    ],
+    "prediction": "Boston Red Sox"
+  },
+  {
+    "question": "Who was John Bryce's head coach while he played for the Long Beach Ice Dogs?",
+    "gold_answers": [
+      "John Van Boxmeer"
+    ],
+    "prediction": "Mike Murphy"
+  },
+  {
+    "question": "How long had Tommy Allen play for Southampton before he turned down the contract?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "When was the school where Campbell graduated in 1832 founded?",
+    "gold_answers": [
+      "1801 "
+    ],
+    "prediction": "1784"
+  },
+  {
+    "question": "What is the difference in age between Campbell and his brother-in-law?",
+    "gold_answers": [
+      "16"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "Who was the manager of the opposing team Sterling played against in a qualifying match in August 2012?",
+    "gold_answers": [
+      "Oleg Kubarev"
+    ],
+    "prediction": "Glen D.RequestMethod"
+  },
+  {
+    "question": "Which country does the team Sterling scored his first goal for the senior team against represent?",
+    "gold_answers": [
+      "German"
+    ],
+    "prediction": "Argentina"
+  },
+  {
+    "question": "Which football club had a better winning record in 2012, Hearts or Manchester City?",
+    "gold_answers": [
+      "City"
+    ],
+    "prediction": "Manchester City"
+  },
+  {
+    "question": "What is the capacity of the stadium where Sterling gave his first start in the league in a 2-2 draw to Manchester City?",
+    "gold_answers": [
+      "54,074"
+    ],
+    "prediction": "33,000"
+  },
+  {
+    "question": "Which player is younger, Stewart Downing or Michael Owen?",
+    "gold_answers": [
+      "Stewart Downing"
+    ],
+    "prediction": "Stewart Downing"
+  },
+  {
+    "question": "What city is Rainbow Springs nearest?",
+    "gold_answers": [
+      "Dunnellon, Florida"
+    ],
+    "prediction": "Phoenix"
+  },
+  {
+    "question": "When was the actor who was cast as Captain Hook born?",
+    "gold_answers": [
+      "August 8, 1937"
+    ],
+    "prediction": "1920"
+  },
+  {
+    "question": "Who won the league the year that the Trotters finished in 17th place?",
+    "gold_answers": [
+      "Arsenal"
+    ],
+    "prediction": "Manchester City"
+  },
+  {
+    "question": "Who won the league the year that the Trotters finished in 14th place?",
+    "gold_answers": [
+      "Portsmouth"
+    ],
+    "prediction": "Burnley"
+  },
+  {
+    "question": "When was the place founded where Harry McShane scored 6 goals in 93 league games?",
+    "gold_answers": [
+      "1895"
+    ],
+    "prediction": "1902"
+  },
+  {
+    "question": "Who founded the race team that Fisher switched to in 2004?",
+    "gold_answers": [
+      "Tom Kelley"
+    ],
+    "prediction": "Chip Ganassi"
+  },
+  {
+    "question": "In what state did Fisher qualify in 14th and finish in 21st?",
+    "gold_answers": [
+      "Alabama"
+    ],
+    "prediction": "California"
+  },
+  {
+    "question": "How many people can be seated at the venue where Fisher competed in the EA Sports 500?",
+    "gold_answers": [
+      "175,000"
+    ],
+    "prediction": "10000"
+  },
+  {
+    "question": "Which team won the race where both Rosberg and Hamilton were forced out to mechanical problems?",
+    "gold_answers": [
+      "Daniel Ricciardo"
+    ],
+    "prediction": "Mercedes"
+  },
+  {
+    "question": "How many sports teams compete  in the sports league that the Rams belong to?",
+    "gold_answers": [
+      "32 "
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "Who was the owner of the original team when the Rams franchise was founded?",
+    "gold_answers": [
+      "Damon \"Buzz\" Wetzel"
+    ],
+    "prediction": "George Canton St. Elmo \"Pop\" Warner"
+  },
+  {
+    "question": "Which football club was established first, Plymouth Arglyle or Colchester United?",
+    "gold_answers": [
+      "Plymouth Argyle"
+    ],
+    "prediction": "Plymouth Argyle"
+  },
+  {
+    "question": "What is the seating capacity of the stadium where Cooper's pass led to a winning goal for Watford during the semi-finals of the 1984 FA Cup?",
+    "gold_answers": [
+      "42,095"
+    ],
+    "prediction": "36,850"
+  },
+  {
+    "question": "What modern countries make up the Ethiopian Empire?",
+    "gold_answers": [
+      "Ethiopia",
+      "Eritrea"
+    ],
+    "prediction": "Eritrea, Ethiopia, Djibouti"
+  },
+  {
+    "question": "Who was older, Tian Chengsi or Li Baochen?",
+    "gold_answers": [
+      "Tian Chengsi"
+    ],
+    "prediction": "Tian Chengsi"
+  },
+  {
+    "question": "What was the rope made from that the use of running rigging has evolved from?",
+    "gold_answers": [
+      "manila hemp"
+    ],
+    "prediction": "Cordage"
+  },
+  {
+    "question": "How long was Scrabble aired on NBC?",
+    "gold_answers": [
+      "1,335 episodes"
+    ],
+    "prediction": "15 years"
+  },
+  {
+    "question": "Was Devito or Schwarzenegger older in 1988?",
+    "gold_answers": [
+      "Danny DeVito"
+    ],
+    "prediction": "Devito"
+  },
+  {
+    "question": "How long had the Jodrell Bank Observatory been in operation when Lyne retired?",
+    "gold_answers": [
+      "62"
+    ],
+    "prediction": "25 years"
+  },
+  {
+    "question": "How many years after the discovery of pulsars did Lyne retire?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "How long had the social media platform Tom Morello used to deny courting Layne Staley for his band been in existence when he did so?",
+    "gold_answers": [
+      "9"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "How old was Zack when he left Rage Against the Machine?",
+    "gold_answers": [
+      "30"
+    ],
+    "prediction": "24"
+  },
+  {
+    "question": "How many years were there between the release of the Super Famicom and the beginning of Mother 3 development?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "Which video game developer who was connected to the Mother series is the oldest?",
+    "gold_answers": [
+      "Shigesato Itoi"
+    ],
+    "prediction": "Hironobu Sakusabe"
+  },
+  {
+    "question": "How long had the 64DD been in development when Miyamoto said Mother 3 might be one of the launch titles for the peripheral?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "4 years"
+  },
+  {
+    "question": "How many islands comprise the nation that Lewis was born in?",
+    "gold_answers": [
+      "181 "
+    ],
+    "prediction": "26"
+  },
+  {
+    "question": "What year was the building constructed that Lewis because a chorister at when he was eight years old?",
+    "gold_answers": [
+      "1348"
+    ],
+    "prediction": "1763"
+  },
+  {
+    "question": "What is the national origin of the person that Lewis studied with for months in 1934?",
+    "gold_answers": [
+      "French "
+    ],
+    "prediction": "Chinese"
+  },
+  {
+    "question": "How many people can Stamford Bridge hold at max capacity?",
+    "gold_answers": [
+      "40,834"
+    ],
+    "prediction": "82,336"
+  },
+  {
+    "question": "In what year did the Milan ruler who executed 53 nobles die?",
+    "gold_answers": [
+      "1278"
+    ],
+    "prediction": "1447"
+  },
+  {
+    "question": "How long had Gregory X been Pope when he confirmed Visconti's appointment as Archbishop of Milan?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "Which city that formed the coalition against Della Torre was found first?",
+    "gold_answers": [
+      "Novara"
+    ],
+    "prediction": "Cagliari"
+  },
+  {
+    "question": "How old was Ottone's nephew when Ottone was appointed Archbishop of Milan by the Pope?",
+    "gold_answers": [
+      "63"
+    ],
+    "prediction": "15"
+  },
+  {
+    "question": "In which modern city is the castle where Della Torre was imprisoned located?",
+    "gold_answers": [
+      "Italy"
+    ],
+    "prediction": "Rome"
+  },
+  {
+    "question": "What country was Strik studying in between 1979 and 1983?",
+    "gold_answers": [
+      "Netherlands,"
+    ],
+    "prediction": "South Africa"
+  },
+  {
+    "question": "Did Strik live in a more populated city in 1992 or in 1980?",
+    "gold_answers": [
+      "1992 "
+    ],
+    "prediction": "1992"
+  },
+  {
+    "question": "How long did the Croatian War of Independence last?",
+    "gold_answers": [
+      "5"
+    ],
+    "prediction": "3 years"
+  },
+  {
+    "question": "When did the Sassanids replace the Parthians?",
+    "gold_answers": [
+      "224"
+    ],
+    "prediction": "224 CE"
+  },
+  {
+    "question": "What was the capital of Armenia before Vagharshapat?",
+    "gold_answers": [
+      "Tigranakert"
+    ],
+    "prediction": "Artaxata"
+  },
+  {
+    "question": "What was the end result of the activism Lange's father participated in?",
+    "gold_answers": [
+      " Imperial Russian Army under Ivan Paskevich eventually crushed the uprising"
+    ],
+    "prediction": "Reform of the apartheid system."
+  },
+  {
+    "question": "How long had the university been teaching students at the time Lange was expelled from it?",
+    "gold_answers": [
+      "64"
+    ],
+    "prediction": "150 years"
+  },
+  {
+    "question": "Oh the philosophers Lange becamse familiar with in France, which was older?",
+    "gold_answers": [
+      "Arthur Schopenhauer"
+    ],
+    "prediction": "Hegel"
+  },
+  {
+    "question": "When did the social discord Lange's father participated in take place?",
+    "gold_answers": [
+      "1830–31"
+    ],
+    "prediction": "1914-1918"
+  },
+  {
+    "question": "When was the ordering of the group the social discord in November targeted initially established?",
+    "gold_answers": [
+      "1772"
+    ],
+    "prediction": "1996"
+  },
+  {
+    "question": "What were the dates of the November Uprising?",
+    "gold_answers": [
+      "29 November 1830",
+      "5 October 1831"
+    ],
+    "prediction": "November 29 – December 2, 1794"
+  },
+  {
+    "question": "How old was the HMS Spartiate the year Hamond was promoted to rear admiral?",
+    "gold_answers": [
+      "28"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "Who ruled the Gupta Empire when Gauda was rebuilt and became the hub of the Sena Empire?",
+    "gold_answers": [
+      "Ballala Sena"
+    ],
+    "prediction": "Chandra"
+  },
+  {
+    "question": "When was the city of Gauda finally abandoned?",
+    "gold_answers": [
+      "1576"
+    ],
+    "prediction": "1433"
+  },
+  {
+    "question": "How long had Wigan Athletic been a team when Owen made his senior debut?",
+    "gold_answers": [
+      "71"
+    ],
+    "prediction": "119 years"
+  },
+  {
+    "question": "What city did Owen win his home debut in?",
+    "gold_answers": [
+      "Stoke-on-Trent,"
+    ],
+    "prediction": "Philadelphia"
+  },
+  {
+    "question": "Who owned Sun Life Stadium the day Roy Halladay pitched the 20th perfect game in MLB history?",
+    "gold_answers": [
+      "Stephen M. Ross"
+    ],
+    "prediction": "Phillip R. Anschutz"
+  },
+  {
+    "question": "How many NCAA tournament titles has the coach for the only college basketball team to have ever had its national title vacated won?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "2"
+  },
+  {
+    "question": "What is the population of the city where Schchapov earned his bachelor's degree?",
+    "gold_answers": [
+      "1,243,500,"
+    ],
+    "prediction": "2.6 million"
+  },
+  {
+    "question": "Who owns the team that Taylor began a 2 year apprenticeship with?",
+    "gold_answers": [
+      "Evangelos Marinakis"
+    ],
+    "prediction": "New York Yankees"
+  },
+  {
+    "question": "How long had Moorside High School been educating students for by the year Taylor began his two-year apprenticeship at Nottingham Forest?",
+    "gold_answers": [
+      "81"
+    ],
+    "prediction": "120 years"
+  },
+  {
+    "question": "What was the age difference to the two people claiming the Polish throne?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "18"
+  },
+  {
+    "question": "What was the round object stolen from the vault made of?",
+    "gold_answers": [
+      "silver "
+    ],
+    "prediction": "Gold"
+  },
+  {
+    "question": "What year did New Netherland become New York?",
+    "gold_answers": [
+      "1664"
+    ],
+    "prediction": "1664"
+  },
+  {
+    "question": "Who is the oldest between the two performers Josh toured with in 2012?",
+    "gold_answers": [
+      " Emeli Sandé"
+    ],
+    "prediction": "Beyoncé"
+  },
+  {
+    "question": "What type of car did the Ferrari 330 TRI/LM lose to in the 12 Hours of Sebring?",
+    "gold_answers": [
+      " Ferrari"
+    ],
+    "prediction": "Lamborghini Diablo"
+  },
+  {
+    "question": "What city is the Museum located?",
+    "gold_answers": [
+      "city of Hyderabad,"
+    ],
+    "prediction": "Vienna"
+  },
+  {
+    "question": "Which school that Robert Fraser attended after he left Kingston Grammar School was found first?",
+    "gold_answers": [
+      "Royal Holloway, University of London\n\nRoyal Holloway, University of London (RHUL)"
+    ],
+    "prediction": "St Leonard's School"
+  },
+  {
+    "question": "In which country was Robert Fraser's brother an Emeritus Professor of Opera?",
+    "gold_answers": [
+      "United States"
+    ],
+    "prediction": "Italy"
+  },
+  {
+    "question": "Which year did the festival that Robert Fraser's brother helped co-found first start?",
+    "gold_answers": [
+      "1979"
+    ],
+    "prediction": "1976"
+  },
+  {
+    "question": "How old is the newscaster who was a fellow choristers at the Pilgrims School with Robert Fraser?",
+    "gold_answers": [
+      "72"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "What country was Ito born in?",
+    "gold_answers": [
+      "Japan"
+    ],
+    "prediction": "Japan"
+  },
+  {
+    "question": "When was the birthplace of Ptacek founded?",
+    "gold_answers": [
+      "1945"
+    ],
+    "prediction": "1857"
+  },
+  {
+    "question": "What country did Albert Seward attend college in?",
+    "gold_answers": [
+      "England"
+    ],
+    "prediction": "United States"
+  },
+  {
+    "question": "What year was the lecturer who inspired Seward born?",
+    "gold_answers": [
+      "1816"
+    ],
+    "prediction": "1760"
+  },
+  {
+    "question": "Which of the two Societies Seward was elected to was formed first?",
+    "gold_answers": [
+      "The Royal Society"
+    ],
+    "prediction": "American Colonization Society"
+  },
+  {
+    "question": "Who founded Christianity Today?",
+    "gold_answers": [
+      "Billy Graham"
+    ],
+    "prediction": "J. Edwin Orr"
+  },
+  {
+    "question": "What year was Allmusic established?",
+    "gold_answers": [
+      "1991"
+    ],
+    "prediction": "1995"
+  },
+  {
+    "question": "What percent of daylight is scattered in the atmosphere?",
+    "gold_answers": [
+      "23%"
+    ],
+    "prediction": "60%-90%"
+  },
+  {
+    "question": "How many years did the Third Anglo-Afghan War last?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "2"
+  },
+  {
+    "question": "How old was Henry Keppel when Prince Victor of Hohenlohe-Langenburg served under him?",
+    "gold_answers": [
+      "46"
+    ],
+    "prediction": "18"
+  },
+  {
+    "question": "How long had the HMS St Jean d'Acre existed prior to when Prince Victor of Hohenlohe-Langenburg served on it?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "17 years"
+  },
+  {
+    "question": "How old was Alfred, Duke of Edinburgh when he served on the HMS Racoon as a lieutenant?",
+    "gold_answers": [
+      "19"
+    ],
+    "prediction": "24"
+  },
+  {
+    "question": "How long had the Royal Navy existed when Victor first became an officer?",
+    "gold_answers": [
+      "300"
+    ],
+    "prediction": "300 years"
+  },
+  {
+    "question": "Which colleague Neugebauer collaborated with at Mount Wilson Observatory is the oldest?",
+    "gold_answers": [
+      " Robert B. Leighton"
+    ],
+    "prediction": "Edwin Hubble"
+  },
+  {
+    "question": "What year was the university where Alchian earned his B.A. and PH.D established?",
+    "gold_answers": [
+      "1885 "
+    ],
+    "prediction": "1883"
+  },
+  {
+    "question": "When was the person that Pinus sabiniana was named after born?",
+    "gold_answers": [
+      "6 June 1770 "
+    ],
+    "prediction": "1740"
+  },
+  {
+    "question": "Where did Sheehan's team play their home games when he was playing for an indoor football team in the CIFL?",
+    "gold_answers": [
+      "Cincinnati"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "Which team in the CIFL Championship Game had a better regular season record when Sheehan led his team to victory?",
+    "gold_answers": [
+      " Commandos"
+    ],
+    "prediction": "Sheehan's team"
+  },
+  {
+    "question": "Which college boasted larger enrollment the year Larson got her B.A., St. Olaf College or Augustana College?",
+    "gold_answers": [
+      "St. Olaf College "
+    ],
+    "prediction": "St. Olaf College"
+  },
+  {
+    "question": "How old was Larson's sister Agnes the year Larson began teaching at Southern Illinois University?",
+    "gold_answers": [
+      "34"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "What job did Agnes Larson hold the year her sister received her Ph.D.?",
+    "gold_answers": [
+      "teaching "
+    ],
+    "prediction": "Librarian"
+  },
+  {
+    "question": "How many years did the Ashoka's rule?",
+    "gold_answers": [
+      "37"
+    ],
+    "prediction": "45"
+  },
+  {
+    "question": "When did the Tsar who Mannerheim had a prominent place in the ceremonies for first come to power?",
+    "gold_answers": [
+      "1 November 1894"
+    ],
+    "prediction": "1881"
+  },
+  {
+    "question": "How many other people were on the US national collegiate baseball team the same year as Frazier?",
+    "gold_answers": [
+      "30 "
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "What city is home to the library that deemed the film \"culturally, historically, or aesthetically significant?\"",
+    "gold_answers": [
+      "Washington, D.C."
+    ],
+    "prediction": "New York City"
+  },
+  {
+    "question": "Who was the writer for the song \"Just to Satisfy You\"? ",
+    "gold_answers": [
+      "Waylon Jennings and Don Bowman"
+    ],
+    "prediction": "Tom Cochrane"
+  },
+  {
+    "question": "How many years old was William FitzOxbern when the Priory Church was founded?",
+    "gold_answers": [
+      "52"
+    ],
+    "prediction": "25"
+  },
+  {
+    "question": "Which schools split from the Southern Conference to form the Atlanti Coast Conference in 1953.",
+    "gold_answers": [
+      "Clemson",
+      "Duke",
+      "Maryland",
+      "North Carolina",
+      "North Carolina State",
+      "South Carolina",
+      "Wake Forest"
+    ],
+    "prediction": "The Citadel and College of Charleston."
+  },
+  {
+    "question": "How long had KIIS-FM radio been broadcasting the  year that \"Take a Bow\" premiered on it?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "1995"
+  },
+  {
+    "question": "What was the combined ages of Victoria Azarenka and Svetlana Kuznetsova when Sventlana defeated Victoria in the quarterfinals?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "34"
+  },
+  {
+    "question": "In what year was the publication founded which claimed that  Jeremy Corbyn had been present at a 2014 wreath-laying at a cemetery which contained the graves of many Palestinian activists?",
+    "gold_answers": [
+      "1896"
+    ],
+    "prediction": "2016"
+  },
+  {
+    "question": "Where is Nysa School of music located?",
+    "gold_answers": [
+      "Poland "
+    ],
+    "prediction": "Kraków, Poland"
+  },
+  {
+    "question": "What year was the federation that bestowed a plaque in 2002 founded?",
+    "gold_answers": [
+      "1908"
+    ],
+    "prediction": "1993"
+  },
+  {
+    "question": "What venue was the match in 2008 held in?",
+    "gold_answers": [
+      " the PostFinance Arena"
+    ],
+    "prediction": "Wembley Stadium"
+  },
+  {
+    "question": "How many teams are in the leagues which compete for the cup annually?",
+    "gold_answers": [
+      "63"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "Who won the first cup match?",
+    "gold_answers": [
+      "the New York Rangers"
+    ],
+    "prediction": "Diego Maradona for Argentina"
+  },
+  {
+    "question": "Who won the last cup match?",
+    "gold_answers": [
+      "The ZSC Lions"
+    ],
+    "prediction": "Argentina"
+  },
+  {
+    "question": "Which of the cities where the cup matches have been held has a larger population?",
+    "gold_answers": [
+      "Zurich"
+    ],
+    "prediction": "São Paulo"
+  },
+  {
+    "question": "Where did the October 8th event that the Time Splitters lost to the Forever Hooligans take place?",
+    "gold_answers": [
+      "in Tokyo at Ryōgoku Kokugikan"
+    ],
+    "prediction": "Cork"
+  },
+  {
+    "question": "Of the baseball teams Trembley has worked for, which has won the most World Series?",
+    "gold_answers": [
+      "Pittsburgh Pirates"
+    ],
+    "prediction": "Boston Red Sox"
+  },
+  {
+    "question": "How many American League teams has Trembley worked for?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "Who settled the place USS Corry sailed twice to?",
+    "gold_answers": [
+      "Norwegian chieftain Ingólfr Arnarson"
+    ],
+    "prediction": "The Chickasaw tribe."
+  },
+  {
+    "question": "What is the population of the city USS Corry went to in October of 1942?",
+    "gold_answers": [
+      "3.35"
+    ],
+    "prediction": "119689"
+  },
+  {
+    "question": "Who starred with Emma in the 2007 film she earned an award for?",
+    "gold_answers": [
+      "Michael Cera ",
+      "Jonah Hill"
+    ],
+    "prediction": "Scarlett Johansson"
+  },
+  {
+    "question": "What was the box office total for the movie where Emma had her first leading role?",
+    "gold_answers": [
+      "74952305"
+    ],
+    "prediction": "Dirty Dancing"
+  },
+  {
+    "question": "What city did Empire Nightingale arrive in on July 1?",
+    "gold_answers": [
+      "Glasgow"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "What teams did Fairbanks's offensive coordinator serve as head coach?",
+    "gold_answers": [
+      "University of Oklahoma",
+      "Dallas Cowboys"
+    ],
+    "prediction": "Oregon State"
+  },
+  {
+    "question": "When was the bowl game that Fairbanks won at Oklahoma to close out his career first established? ",
+    "gold_answers": [
+      "1933"
+    ],
+    "prediction": "1948"
+  },
+  {
+    "question": "On what major lake is the hometown of Funovits located?",
+    "gold_answers": [
+      "Lake Erie"
+    ],
+    "prediction": "Lake Balaton"
+  },
+  {
+    "question": "When was the last issue of Loaded printed?",
+    "gold_answers": [
+      "March 2015"
+    ],
+    "prediction": "2019"
+  },
+  {
+    "question": "How many years were there between Jingaku Takashi first jointed the Izutsu stable and Sakahoko joining the same stable?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "How long had Kitanoumi been a yokozuna when Jingaku Takashi defeated him?",
+    "gold_answers": [
+      "10"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "How old was Hokutoumi when he defeated Jingaku Takashi by making him stumble out of the dohyo?",
+    "gold_answers": [
+      "27"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "How long had the Pontifical Academy of St. Thomas Aquinas been in existence when Aleš Ušeničnik became a member there?",
+    "gold_answers": [
+      "58"
+    ],
+    "prediction": "160 years"
+  },
+  {
+    "question": "When were the IXB submarines entered into service?",
+    "gold_answers": [
+      "1935 and 1936"
+    ],
+    "prediction": "1981"
+  },
+  {
+    "question": "In what country did Cameron accept a chair of philosophy?",
+    "gold_answers": [
+      "Sedan"
+    ],
+    "prediction": "United Kingdom"
+  },
+  {
+    "question": "Which area of the district is larger, Topchanchi or Tundi?",
+    "gold_answers": [
+      "Tundi"
+    ],
+    "prediction": "Topchanchi"
+  },
+  {
+    "question": "Which dam was built last?",
+    "gold_answers": [
+      "Panchet"
+    ],
+    "prediction": "Nevada Test Site Dam"
+  },
+  {
+    "question": "How old was Mark Tulin in 1965?",
+    "gold_answers": [
+      "17"
+    ],
+    "prediction": "18"
+  },
+  {
+    "question": "How many matches did Richardson's cricket team have in 1928?",
+    "gold_answers": [
+      "27"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "How many more matches did Richardson's cricket team win in their 1931 season compared to their 1932 season?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "Which of the two companies that secured rights to the Fifty Shades trilogy was founded first?",
+    "gold_answers": [
+      "Universal Pictures"
+    ],
+    "prediction": "Eros Entertainment"
+  },
+  {
+    "question": "How old was the actress that played Gia Matteo when she was cast in the role?",
+    "gold_answers": [
+      "31"
+    ],
+    "prediction": "21"
+  },
+  {
+    "question": "Which of Gordon's childhood heroes lived the longest?",
+    "gold_answers": [
+      "Albert Einstein",
+      "Stephen Hawking"
+    ],
+    "prediction": "George Washington"
+  },
+  {
+    "question": "How many terms did the person who Baca challenged in the 1994 Democratic gubernatorial primary serve?",
+    "gold_answers": [
+      "three"
+    ],
+    "prediction": "2"
+  },
+  {
+    "question": "Which ground did the Liverpool Football Club play at longer, Anfield or Goodison Park?",
+    "gold_answers": [
+      "Anfield"
+    ],
+    "prediction": "Anfield"
+  },
+  {
+    "question": "How long was John Houlding's stadium empty?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "200 years"
+  },
+  {
+    "question": "Which League that the Liverpool Football Club played under had the most teams?",
+    "gold_answers": [
+      "English Football League"
+    ],
+    "prediction": "Premier League"
+  },
+  {
+    "question": "When was the team established that drafted Andrew McGrath in 2016?",
+    "gold_answers": [
+      "1872"
+    ],
+    "prediction": "2005"
+  },
+  {
+    "question": "How many championships did the team that McGrath played against when he won the AFL Rising Star nomination win?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "When was the Japanese television network that aired the Spice and Wolf anime found?",
+    "gold_answers": [
+      "January 28, 1970"
+    ],
+    "prediction": "1953"
+  },
+  {
+    "question": "Which company that licensed the Spice and Wolf anime for US release was established first?",
+    "gold_answers": [
+      " Kadokawa Pictures USA "
+    ],
+    "prediction": "Warner Bros."
+  },
+  {
+    "question": "Who was older when the year Bush nominated Kavanaugh to the U.S. Court of Appeals for the D.C. Circuit, Ken Starr or Bill Clinton?",
+    "gold_answers": [
+      "Ken Starr."
+    ],
+    "prediction": "Bill Clinton"
+  },
+  {
+    "question": "Of the two players who each scored first for Brazil and Chile, whose birthday falls earlier in the year?",
+    "gold_answers": [
+      "David Luiz"
+    ],
+    "prediction": "Brazil"
+  },
+  {
+    "question": "In which city did Camilo make his professional debut?",
+    "gold_answers": [
+      "New York City"
+    ],
+    "prediction": "Sao Paulo"
+  },
+  {
+    "question": "How much time has passed between the completion of Carnegie Hall and Camilo's debut at the same venue?",
+    "gold_answers": [
+      "94"
+    ],
+    "prediction": "25 years"
+  },
+  {
+    "question": "How old was Mao Zedong when the Nationalist troops conveyed the relics to Yan'an?",
+    "gold_answers": [
+      "46"
+    ],
+    "prediction": "80"
+  },
+  {
+    "question": "What is the date of birth of the man who was elected president in October of 1891?",
+    "gold_answers": [
+      "April 26, 1845"
+    ],
+    "prediction": "October 23, 1843"
+  },
+  {
+    "question": "How many years after Rimouski Oceanic was founded did Desrosiers join their roster?",
+    "gold_answers": [
+      "43"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "Who was the team captain for the Dallas Stars when Desrosiers played for them?",
+    "gold_answers": [
+      "Jamie Benn"
+    ],
+    "prediction": "Jarom Fransis"
+  },
+  {
+    "question": "Was James Connolly born before or after the establishment of Hibernian F.C.?",
+    "gold_answers": [
+      "before"
+    ],
+    "prediction": "before"
+  },
+  {
+    "question": "Who did Hibernian defeat to became the first club form the east coast of Scotland to win a major trophy?",
+    "gold_answers": [
+      "Dumbarton"
+    ],
+    "prediction": "Dundee"
+  },
+  {
+    "question": "Who had a longer club history when Hibernian met Preston North End in the semi-finals of FA Cup?",
+    "gold_answers": [
+      "Hibernian"
+    ],
+    "prediction": "Hibernian"
+  },
+  {
+    "question": "How many members were in the band Grouplove performed with as their main support while on a North American Fall tour?",
+    "gold_answers": [
+      "three "
+    ],
+    "prediction": "5"
+  },
+  {
+    "question": "Which state did Grouplove perform in December before their sold-out headline tour in Australia?",
+    "gold_answers": [
+      "California"
+    ],
+    "prediction": "California"
+  },
+  {
+    "question": "What city and state did Grouplove travel to in order to perform at the Bonnaroo Music and Arts Festival?",
+    "gold_answers": [
+      "Manchester, Tennessee"
+    ],
+    "prediction": "Louisville, Kentucky"
+  },
+  {
+    "question": "Which of the three acclaimed photographers that originated from Holyoke was born first?",
+    "gold_answers": [
+      "Ray D'Addario"
+    ],
+    "prediction": "Ansel Adams"
+  },
+  {
+    "question": "What is the title of the first novel of the author who based a lot of his books in Holyoke?",
+    "gold_answers": [
+      "My Father's Orchard"
+    ],
+    "prediction": "The Brief Wondrous Life of Oscar Wao"
+  },
+  {
+    "question": "How many New Taiwan Dollars equals and American Dollar?",
+    "gold_answers": [
+      "31,005.3"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "On October 3, 1999 Bhutia played against a team from what country?",
+    "gold_answers": [
+      "United Kingdom"
+    ],
+    "prediction": "Nepal"
+  },
+  {
+    "question": "When was Sears Point built?",
+    "gold_answers": [
+      "1968 "
+    ],
+    "prediction": "2012"
+  },
+  {
+    "question": "Which team won the 2007 competition in which São Paulo FC was eliminated by Grêmio?",
+    "gold_answers": [
+      "Boca Juniors,"
+    ],
+    "prediction": "Grêmio"
+  },
+  {
+    "question": "In what year was the director of Gold (2016) born?",
+    "gold_answers": [
+      "1965"
+    ],
+    "prediction": "1970"
+  },
+  {
+    "question": "Which of the three locations that Gold (2016) was shot was the largest in square miles?",
+    "gold_answers": [
+      "Thailand"
+    ],
+    "prediction": "Las Vegas Strip"
+  },
+  {
+    "question": "What year was the company who acquired Gold's rights on March 30, 2015 created?",
+    "gold_answers": [
+      "2005"
+    ],
+    "prediction": "1999"
+  },
+  {
+    "question": "Who founded the company that owned the US distribution rights for Gold (2016)?",
+    "gold_answers": [
+      "Bob and Harvey Weinstein"
+    ],
+    "prediction": "Tom Hanks"
+  },
+  {
+    "question": "Which of the two actresses who were scheduled to star opposite McConaughey in Gold (2016) is older?",
+    "gold_answers": [
+      "Michelle Williams"
+    ],
+    "prediction": "Jennifer Lawrence"
+  },
+  {
+    "question": "Who was Sylvester Stallone's co-stars in the 1993 movie considered to be a comeback hit?",
+    "gold_answers": [
+      "John Lithgow",
+      "Michael Rooker",
+      "Janine Turner"
+    ],
+    "prediction": "Rhonda Fleming, Arnold Schwarzenegger"
+  },
+  {
+    "question": "How old was Wesley Snipes the year that he starred with Sylvester Stallone in Demolition Man?",
+    "gold_answers": [
+      "31"
+    ],
+    "prediction": "40"
+  },
+  {
+    "question": "At what age did Antonio Banderas costar with Sylvester Stallone in the movie Assassins?",
+    "gold_answers": [
+      "35"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "How many citizens live in the suburb that Chappell grew up in?",
+    "gold_answers": [
+      "3349"
+    ],
+    "prediction": "25000"
+  },
+  {
+    "question": "When was the car first introduced that Surtees bought to use until the TS7 was ready?",
+    "gold_answers": [
+      "1968"
+    ],
+    "prediction": "1971"
+  },
+  {
+    "question": "Who won the race where Surtees qualified 15th?",
+    "gold_answers": [
+      " Jochen Rindt"
+    ],
+    "prediction": "Jody Scheckter"
+  },
+  {
+    "question": "Who was the champion of the race in which Surtees qualified 15th and finished eighth?",
+    "gold_answers": [
+      "Jacky Ickx"
+    ],
+    "prediction": "Jody Scheckter"
+  },
+  {
+    "question": "How long did the period which Haig Fras was dated last?",
+    "gold_answers": [
+      "21 million years"
+    ],
+    "prediction": "18 years"
+  },
+  {
+    "question": "How old was Pope Urban VI when Nerio Acciaioli was captured near Vostitsa?",
+    "gold_answers": [
+      "81"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "Who were the crew members on the flight to the moon in 1972?",
+    "gold_answers": [
+      "Commander Eugene Cernan, Lunar Module Pilot Harrison Schmitt, and Command Module Pilot Ronald Evans"
+    ],
+    "prediction": "Ed White, Alfred Worden, and Thomas Stafford"
+  },
+  {
+    "question": "How many years after the Apollo 11 mission did the Apollo 17 mission launch?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "8"
+  },
+  {
+    "question": "On what date did Apollo 11 land at it's destination site?",
+    "gold_answers": [
+      "July 20, 1969"
+    ],
+    "prediction": "July 20, 1969"
+  },
+  {
+    "question": "When was the event where Evans made his debut first established?",
+    "gold_answers": [
+      "February 23, 2002"
+    ],
+    "prediction": "1985"
+  },
+  {
+    "question": "What countries border the body of water where  the five expedition navigated through before becoming separated?",
+    "gold_answers": [
+      "Chile"
+    ],
+    "prediction": "Canada and the United States."
+  },
+  {
+    "question": "How old was Adrian \"King\" Cole the year that headquarters RAAF Station Richmond was formed as a separate entity?",
+    "gold_answers": [
+      "41"
+    ],
+    "prediction": "18"
+  },
+  {
+    "question": "In what Kentucky county did Robert Mallory die?",
+    "gold_answers": [
+      "Oldham County"
+    ],
+    "prediction": "Fayette"
+  },
+  {
+    "question": "In what Kentucky country was Mallory buried?",
+    "gold_answers": [
+      "Oldham County"
+    ],
+    "prediction": "Fayette"
+  },
+  {
+    "question": "What is the population difference between the place where Atkinson visited his parents in 1975 and the place where he found a job with The Morning Sun Newspaper?",
+    "gold_answers": [
+      "12472"
+    ],
+    "prediction": "100000"
+  },
+  {
+    "question": "How many of the type of prize that Atkinson's newspaper won in 1982 have been awarded to the newspaper in its history?",
+    "gold_answers": [
+      "two"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "What year was the city founded where there was a walkway collapse in 1982?",
+    "gold_answers": [
+      "1850"
+    ],
+    "prediction": "1901"
+  },
+  {
+    "question": "How long had Johnson been working at the Gardens?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "What was the first film for the actor who Clayburgh played the interfering wife of  in 1992? ",
+    "gold_answers": [
+      "Gone are the Days!"
+    ],
+    "prediction": "Fatal Attraction"
+  },
+  {
+    "question": "How long had Kelvin Sampson serve as the head coach of Indiana before his sanctions?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "How old was Kelvin Sampson when he was hired by Houston as their head coach?",
+    "gold_answers": [
+      "59"
+    ],
+    "prediction": "59"
+  },
+  {
+    "question": "Which team did Houston face in the finals of the AAC tournament the same year that they were regular season champions?",
+    "gold_answers": [
+      "Cincinnati "
+    ],
+    "prediction": "Rice"
+  },
+  {
+    "question": "What year did Houston reach Sweet Sixteen before they managed to do it again 35 years later?",
+    "gold_answers": [
+      "2019 "
+    ],
+    "prediction": "1984"
+  },
+  {
+    "question": "How much time had passed between the start of Thirteen Years' War and the purchase of Malbork Castle by King Casimir IV?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "25 years"
+  },
+  {
+    "question": "How many children did King Casimir IV have when he purchased Malbork Castle from the Teutonic Knights?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "In what state did Carthens graduate high school?",
+    "gold_answers": [
+      "Michigan"
+    ],
+    "prediction": "Florida"
+  },
+  {
+    "question": "What form of government did the place Palma was born in have at the time of her birth?",
+    "gold_answers": [
+      "national government agencies"
+    ],
+    "prediction": "Monarchy"
+  },
+  {
+    "question": "When did the network she was the first female news presenter on start broadcasting?",
+    "gold_answers": [
+      "1961"
+    ],
+    "prediction": "1962"
+  },
+  {
+    "question": "Which country that Bagot helped organize tourist services is the largest?",
+    "gold_answers": [
+      "Iran "
+    ],
+    "prediction": "Canada"
+  },
+  {
+    "question": "In which city is the headquarter of the automaker that employed Bagot located?",
+    "gold_answers": [
+      "Detroit "
+    ],
+    "prediction": "Detroit"
+  },
+  {
+    "question": "How old was George Conner when he won the Assembly seat of Alexandra?",
+    "gold_answers": [
+      "56"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "How old was the first woman to serve as secretary when she became secretary?",
+    "gold_answers": [
+      "52"
+    ],
+    "prediction": "82"
+  },
+  {
+    "question": "Which artist who sang backing vocal with Merman on the Decca issued LP is the oldest?",
+    "gold_answers": [
+      "Dick Haymes"
+    ],
+    "prediction": "Frank Sinatra"
+  },
+  {
+    "question": "Was Sambandar or Appar born first?",
+    "gold_answers": [
+      "Sambandar "
+    ],
+    "prediction": "Sambandar"
+  },
+  {
+    "question": "Which dynasty ruled longer?",
+    "gold_answers": [
+      "Sangama dynasty"
+    ],
+    "prediction": "Qin Dynasty"
+  },
+  {
+    "question": "How many years after Glanvill passed away was Bracton born?",
+    "gold_answers": [
+      "20"
+    ],
+    "prediction": "100"
+  },
+  {
+    "question": "Which country was Bracton born in?",
+    "gold_answers": [
+      "England"
+    ],
+    "prediction": "England"
+  },
+  {
+    "question": "How many years did the war last that coincided with Bracton's retirement?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "30"
+  },
+  {
+    "question": "Which of Bracton's predecessors served in their position the longest?",
+    "gold_answers": [
+      "Raley"
+    ],
+    "prediction": "Henry II"
+  },
+  {
+    "question": "How large is the endowment of the college that Parsons attended?",
+    "gold_answers": [
+      "$32 billion"
+    ],
+    "prediction": "Unknown"
+  },
+  {
+    "question": "What year was Kama Sutra Records formed?",
+    "gold_answers": [
+      "1964 "
+    ],
+    "prediction": "1993"
+  },
+  {
+    "question": "Which song was more successful on the charts, Mirage or Mony Mony?",
+    "gold_answers": [
+      "Mony Mony"
+    ],
+    "prediction": "Mony Mony"
+  },
+  {
+    "question": "In which county is the school where Matt worked with Dunphy in 2006?",
+    "gold_answers": [
+      "Philadelphia"
+    ],
+    "prediction": "Cook"
+  },
+  {
+    "question": "When was the athlete who made the game-winning basket against Penn State born?",
+    "gold_answers": [
+      "July 22, 1990"
+    ],
+    "prediction": "1990"
+  },
+  {
+    "question": "How long had the Folger Shakespeare Library been standing the year Matus made his trip to England?",
+    "gold_answers": [
+      "52"
+    ],
+    "prediction": "189 years"
+  },
+  {
+    "question": "How old was First King Carol when the Romanian War of Independence began?",
+    "gold_answers": [
+      "38"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "When was the arena where the 20th annual Ice Breaker Classic was played constructed?",
+    "gold_answers": [
+      "from 1997 to 1999"
+    ],
+    "prediction": "1999"
+  },
+  {
+    "question": "How long did the Jesuit missionary from Nola, Italy who tirelessly preached the Christian message live?",
+    "gold_answers": [
+      "36"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "How many years was Saturday Morning Slam active?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "How many teams were in J1 League in 2003?",
+    "gold_answers": [
+      "16"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "What positions did the two players who moved in and out of Temperley in the 2019-20 Club Almagro season?",
+    "gold_answers": [
+      "midfielder",
+      " left winger"
+    ],
+    "prediction": "Goalkeeper and Defender"
+  },
+  {
+    "question": "Where was the player that agreed to go to Comunicaciones on 18 July born?",
+    "gold_answers": [
+      "Argentine"
+    ],
+    "prediction": "Argentina"
+  },
+  {
+    "question": "How many countries have an authorized dealership for the make of car that Leavine Family Racing has switched to?",
+    "gold_answers": [
+      "more than 140 countries"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "Which team beat Sweden in the 1958 World Cup?",
+    "gold_answers": [
+      "Brazil"
+    ],
+    "prediction": "Brazil"
+  },
+  {
+    "question": "Which country did Sweden compete in during the 1908 Summer Olympics?",
+    "gold_answers": [
+      " Great Britain"
+    ],
+    "prediction": "United Kingdom"
+  },
+  {
+    "question": "Who managed the Sweden footballers when they won gold in the 1948 Olympics?",
+    "gold_answers": [
+      " George Raynor"
+    ],
+    "prediction": "Göran Andersson"
+  },
+  {
+    "question": "How long had the Formula Ford Festival been in existence for the year McGarrity won it?",
+    "gold_answers": [
+      "23"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "Who was driving for Nordic Racing the year McGarrity left formula cars for sports car racing?",
+    "gold_answers": [
+      "Tomáš Enge",
+      "Justin Wilson"
+    ],
+    "prediction": "Marco Andretti"
+  },
+  {
+    "question": "How long did the Siege of Boston last?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "4 months"
+  },
+  {
+    "question": "When was the artist born that WQMP played on November 29, 2017 at 3PM?",
+    "gold_answers": [
+      "December 13, 1989"
+    ],
+    "prediction": "1977"
+  },
+  {
+    "question": "In which state did Knipe receive his bachelor degree in biology?",
+    "gold_answers": [
+      "Ohio"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "How long did Milo's uncle serve in the U.S. Congress?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "20 years"
+  },
+  {
+    "question": "What was the date of construction of the cathedral that Abercrombie and Swenson were married in?",
+    "gold_answers": [
+      "1853–1854"
+    ],
+    "prediction": "14 February 1929"
+  },
+  {
+    "question": "What was the size of Charles XII's army in the Battle of Narva?",
+    "gold_answers": [
+      "12500"
+    ],
+    "prediction": "14,000"
+  },
+  {
+    "question": "What country is Stockholm located in?",
+    "gold_answers": [
+      "Sweden "
+    ],
+    "prediction": "Sweden"
+  },
+  {
+    "question": "Which politician that Novak supported for the Democratic presidential candidacies is the oldest?",
+    "gold_answers": [
+      "Lyndon Baines Johnson"
+    ],
+    "prediction": "Joe Biden"
+  },
+  {
+    "question": "In which country did Whittaker Chambers went to war as a U.S. Army Lieutenant?",
+    "gold_answers": [
+      "Korea"
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "What is the frequency of the station Orion worked for in Sparta?",
+    "gold_answers": [
+      "1290 AM"
+    ],
+    "prediction": "101.7 MHz"
+  },
+  {
+    "question": "Which of Denard's teammates on the All-Big Ten Conference team was born first?",
+    "gold_answers": [
+      "Stephen Schilling"
+    ],
+    "prediction": "Tyler Gaffner"
+  },
+  {
+    "question": "When was the award Denard earned for being the Big Ten's MVP first given out?",
+    "gold_answers": [
+      "1924"
+    ],
+    "prediction": "1950"
+  },
+  {
+    "question": "What year did the Walk happen?",
+    "gold_answers": [
+      "1077 "
+    ],
+    "prediction": "1969"
+  },
+  {
+    "question": "How old was Bakic when he participated in the Battle of Mohacs?",
+    "gold_answers": [
+      "42"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "How long had Ferdinand I been in power when he defeated Zapolya?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "20 years"
+  },
+  {
+    "question": "What other state contains part of the Ouachita National Forest?",
+    "gold_answers": [
+      "Arkansas"
+    ],
+    "prediction": "Arkansas"
+  },
+  {
+    "question": "How many acres is the largest protected area of tallgrass prairie in the world?",
+    "gold_answers": [
+      "45000"
+    ],
+    "prediction": "10,000"
+  },
+  {
+    "question": "What year was Deep Purple founded?",
+    "gold_answers": [
+      "1968"
+    ],
+    "prediction": "1968"
+  },
+  {
+    "question": "Which team won the 2010 FIFA World Cup?",
+    "gold_answers": [
+      "Spain"
+    ],
+    "prediction": "Spain"
+  },
+  {
+    "question": "Which company that Indigo controls or flies to more destinations?",
+    "gold_answers": [
+      "Frontier Airlines"
+    ],
+    "prediction": "Delta Airlines"
+  },
+  {
+    "question": "Of the two towns that US 50 travels through before reaching the outskirts of chillicothe, which has the greater population?",
+    "gold_answers": [
+      "Hillsboro"
+    ],
+    "prediction": "Columbus"
+  },
+  {
+    "question": "What was the inaugural year of the air race series that Rust also hosted and commentated?",
+    "gold_answers": [
+      "2003 "
+    ],
+    "prediction": "1995"
+  },
+  {
+    "question": "How long had the Warriors been a team for the year they signed Ah Mau?",
+    "gold_answers": [
+      "12"
+    ],
+    "prediction": "15 years"
+  },
+  {
+    "question": "In what country was the comedian born who hosted the comedy show where Imran Yusuf first performed in 2000?",
+    "gold_answers": [
+      "England "
+    ],
+    "prediction": "India"
+  },
+  {
+    "question": "What is the seating capacity of the theater where Yusuf started his UK tour in February 2011?",
+    "gold_answers": [
+      "240"
+    ],
+    "prediction": "1200"
+  },
+  {
+    "question": "How many years after World War I started was the Treaty of Versalilles signed?",
+    "gold_answers": [
+      "5"
+    ],
+    "prediction": "23"
+  },
+  {
+    "question": "On what date was the treaty signed that separated Nemirseta from Germany?",
+    "gold_answers": [
+      "28 June 1919"
+    ],
+    "prediction": "1940"
+  },
+  {
+    "question": "What year was the theatre that held the 2016 NFL Draft built?",
+    "gold_answers": [
+      "1889"
+    ],
+    "prediction": "1987"
+  },
+  {
+    "question": "What books did the fictional character Richard Delancey appear in?",
+    "gold_answers": [
+      "series of novels by historian C. Northcote Parkinson."
+    ],
+    "prediction": "The Long Walk"
+  },
+  {
+    "question": "How long had Kortrijk been a team when Gillenken made his debut for OH Leuven?",
+    "gold_answers": [
+      "43"
+    ],
+    "prediction": "15 years"
+  },
+  {
+    "question": "How old was Kawin Thamsatchanan when he signed with OH Leuven?",
+    "gold_answers": [
+      "28"
+    ],
+    "prediction": "21"
+  },
+  {
+    "question": "When was Ōe Tokihiro's father born?",
+    "gold_answers": [
+      "1148"
+    ],
+    "prediction": "1911"
+  },
+  {
+    "question": "In which state did Cook win a competition that caught the attention of the opera world?",
+    "gold_answers": [
+      "Illinois"
+    ],
+    "prediction": "Massachusetts"
+  },
+  {
+    "question": "Who was the music director for Glyndebourne Festival Opera when Cook was touring with them?",
+    "gold_answers": [
+      "John Pritchard"
+    ],
+    "prediction": "Jonathan Dove"
+  },
+  {
+    "question": "Which river that bounded the “Gericht auf der Höhe” was the longest?",
+    "gold_answers": [
+      "The Nahe"
+    ],
+    "prediction": "Danube"
+  },
+  {
+    "question": "Which of the two food technology projects Decareau worked on became a household standard appliance?",
+    "gold_answers": [
+      "microwave oven"
+    ],
+    "prediction": "Decareau's project on the washing machine."
+  },
+  {
+    "question": "What year was the ship that James Cook sailed up the east coast of Australia build?",
+    "gold_answers": [
+      "1764 "
+    ],
+    "prediction": "1764"
+  },
+  {
+    "question": "What year did the war end that began in August of 1914?",
+    "gold_answers": [
+      "1918"
+    ],
+    "prediction": "1918"
+  },
+  {
+    "question": "How many miles long is the canal where the battleship was transferred to in December?",
+    "gold_answers": [
+      "193.30 km "
+    ],
+    "prediction": "511"
+  },
+  {
+    "question": "Which society was founded at an early date, the society Margaret was a Vice President of or the society she wrote a featured article for their November 2005 newsletter?",
+    "gold_answers": [
+      "Pennsylvania Abolition Society"
+    ],
+    "prediction": "The society she wrote for their newsletter."
+  },
+  {
+    "question": "What type of status does the organization have the Margaret Bacon was a founding board member of?",
+    "gold_answers": [
+      "501(c)(3) status nonprofit"
+    ],
+    "prediction": "Board Member Status"
+  },
+  {
+    "question": "What is the population of the city where Margaret Bacon spent her early childhood?",
+    "gold_answers": [
+      "8,398,748"
+    ],
+    "prediction": "12,000"
+  },
+  {
+    "question": "Which state did Mrs. Bacon meet her husband?",
+    "gold_answers": [
+      "Ohio"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "What state was Lucretia Mott laid to rest?",
+    "gold_answers": [
+      "Pennsylvania"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "What year was the railroad company who held a monopoly on rate first found?",
+    "gold_answers": [
+      "1889"
+    ],
+    "prediction": "1861"
+  },
+  {
+    "question": "Which 1930s event that stalled the Flanley initiative last the longest?",
+    "gold_answers": [
+      "The Great Depression"
+    ],
+    "prediction": "The Great Depression"
+  },
+  {
+    "question": "When was the dam that was part of the Missouri River Basin Project completed?",
+    "gold_answers": [
+      "1957"
+    ],
+    "prediction": "1954"
+  },
+  {
+    "question": "How many years after the Constitution was created did Rawlings end his terms as president?",
+    "gold_answers": [
+      "8"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "How old was Rawlings' vice-president when he was endorsed as a presidential candidate by Rawlings?",
+    "gold_answers": [
+      "56"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "What director offered Prada a role in the film Bhoomi Kosam?",
+    "gold_answers": [
+      " K. B. Tilak"
+    ],
+    "prediction": "Rahul Bose"
+  },
+  {
+    "question": "How many different directors did Prada work with in 1976 and 1977?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "2"
+  },
+  {
+    "question": "In what current day city would the Church of the Holy Apostles be located in?",
+    "gold_answers": [
+      "Constantinople"
+    ],
+    "prediction": "Athens"
+  },
+  {
+    "question": "In what country did the Battle of Acheloos take place?",
+    "gold_answers": [
+      "Bulgaria"
+    ],
+    "prediction": "Greece"
+  },
+  {
+    "question": "How many students does the university where Rebecca Blank is chancellor currently have?",
+    "gold_answers": [
+      "44413"
+    ],
+    "prediction": "200000"
+  },
+  {
+    "question": "In which country did Brinkhorst receive his Bachelor of Laws degree?",
+    "gold_answers": [
+      " Netherlands"
+    ],
+    "prediction": "South Africa"
+  },
+  {
+    "question": "Which company manufactured the rifle that the Bundeswehr replaced in 1997?",
+    "gold_answers": [
+      "Heckler & Koch"
+    ],
+    "prediction": "Heckler & Koch"
+  },
+  {
+    "question": "What state did Senator Charles Sumner represent?",
+    "gold_answers": [
+      "Massachusetts"
+    ],
+    "prediction": "Massachusetts"
+  },
+  {
+    "question": "Who founded the club that issued many of Booth's pamphlets?",
+    "gold_answers": [
+      "Cyrus McCormick, Robert Todd Lincoln, Daniel Burnham, William D. Boyce, and Charles D. Barney."
+    ],
+    "prediction": "Thomas Paine"
+  },
+  {
+    "question": "How old was Lord Cornwallis the year that he sent Alexander Ross home with the despatches of the Battle of Camden?",
+    "gold_answers": [
+      "42"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "How old was Earl Spencer during the year that Alexander Ross went with him to Vienna on a special mission?",
+    "gold_answers": [
+      "36"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "How old was Pascal Bary the year that Zambezi Sun made his debut at Longchamp Racecourse?",
+    "gold_answers": [
+      "54"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "When did the conductor at Midori's concert debut begin conducting the New York Philharmonic?",
+    "gold_answers": [
+      "1962"
+    ],
+    "prediction": "1989"
+  },
+  {
+    "question": "How large was the town that Nicky Winmar grew up in?",
+    "gold_answers": [
+      "over 1,100 residents"
+    ],
+    "prediction": "Small town"
+  },
+  {
+    "question": "How many other players were inducted into the West Australian Football Hall of Fame the same year as Winmar?",
+    "gold_answers": [
+      "8"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "When was the Sacramento Zoo founded?",
+    "gold_answers": [
+      " June 2, 1927"
+    ],
+    "prediction": "1908"
+  },
+  {
+    "question": "When was the school where Haschka was appointed as assistant in the library founded?",
+    "gold_answers": [
+      "1365 "
+    ],
+    "prediction": "1854"
+  },
+  {
+    "question": "What are the most notable works of the person whose home Haschka found aid?  ",
+    "gold_answers": [
+      "Idyllen",
+      "Gleichnisse",
+      "Lenore",
+      "Ruth",
+      "Agathokles",
+      "Die Grafen von Hohenberg",
+      "Biblische Idyllen",
+      "Frauenwürde",
+      "Gedichte",
+      "Die Belagerung Wiens",
+      "Die Schweden in Prag",
+      "Die Wiedereroberung von Ofen",
+      "Friedrich der Streitbare",
+      "Elisabeth von Guttenstein",
+      "Denkwürdigkeiten aus meinen Leben",
+      "Ferdinand II"
+    ],
+    "prediction": "The Blue Bayou and The Long Black Veil"
+  },
+  {
+    "question": "What is the population of the city where Haschka was born and died?",
+    "gold_answers": [
+      "1.9 million"
+    ],
+    "prediction": "2.2 million"
+  },
+  {
+    "question": "Who was the manager of Carlisle United when Simon Hackney signed with the team?",
+    "gold_answers": [
+      "Paul Simpson"
+    ],
+    "prediction": "Paul Trollope"
+  },
+  {
+    "question": "What division is team Canvey Island members of?",
+    "gold_answers": [
+      "North Division"
+    ],
+    "prediction": "Premiership"
+  },
+  {
+    "question": "Which team has a better overall winning record between Forest Green Rovers and Crewe Alexandra?",
+    "gold_answers": [
+      "Forest Green Rovers"
+    ],
+    "prediction": "Crewe Alexandra"
+  },
+  {
+    "question": "What league does Colchester United compete in?",
+    "gold_answers": [
+      "English football league"
+    ],
+    "prediction": "League Two"
+  },
+  {
+    "question": "When was the song by Chuck Berry that is suggested is adapted from McClennan's version of Bottle up and go released?",
+    "gold_answers": [
+      "September 1956"
+    ],
+    "prediction": "1958"
+  },
+  {
+    "question": "What is the population of the place where Rebecca Hollweg lived from age nine?",
+    "gold_answers": [
+      "855,697"
+    ],
+    "prediction": "1198999"
+  },
+  {
+    "question": "Which is the oldest place that Sandford was educated?",
+    "gold_answers": [
+      "New College"
+    ],
+    "prediction": "Windsor"
+  },
+  {
+    "question": "Who is the oldest person that Sandford worked as Principal Private Secretary to?",
+    "gold_answers": [
+      "Samuel John Gurney Hoare"
+    ],
+    "prediction": "Queen Victoria"
+  },
+  {
+    "question": "What are the names of the equestrian gold medallist's other sons?",
+    "gold_answers": [
+      "Barry",
+      " Clarke"
+    ],
+    "prediction": "Unknown"
+  },
+  {
+    "question": "Which country earned the most medals during the Olympic games where Wayne was the flag bearer?",
+    "gold_answers": [
+      "United States"
+    ],
+    "prediction": "France"
+  },
+  {
+    "question": "When was the organization which Wayne served as chairman for nine years founded?",
+    "gold_answers": [
+      "1921"
+    ],
+    "prediction": "1987"
+  },
+  {
+    "question": "What is the job description of the position John Hensman was appointed to while in Wraxall, Somerset?",
+    "gold_answers": [
+      "a person who is invested with the care or cure (cura) of souls of a parish."
+    ],
+    "prediction": "Vice-Chamberlain of the Exchequer"
+  },
+  {
+    "question": "What year did Kulkarni have a strong Ranji trophy season?",
+    "gold_answers": [
+      "2017–18"
+    ],
+    "prediction": "2015"
+  },
+  {
+    "question": "What position did Dhawal Kulkarni play on the squad?",
+    "gold_answers": [
+      "right arm medium-pace bowler and right-handed lower order batsman"
+    ],
+    "prediction": "Midfielder"
+  },
+  {
+    "question": "What is the current enrollment of the school from which Doherty was selected during the 1989 Major League Baseball draft? ",
+    "gold_answers": [
+      "1,037 students"
+    ],
+    "prediction": "112"
+  },
+  {
+    "question": "What year did the party that was involved in the Triumph of the Will form?",
+    "gold_answers": [
+      "1933"
+    ],
+    "prediction": "1919"
+  },
+  {
+    "question": "When was the person born who directed Triumph of the Will?",
+    "gold_answers": [
+      "22 August 1902"
+    ],
+    "prediction": "May 17, 1904"
+  },
+  {
+    "question": "Where was the director of Triumph of the Will born?",
+    "gold_answers": [
+      "Berlin"
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "How did the director of Triumph of the Will die?",
+    "gold_answers": [
+      "cancer"
+    ],
+    "prediction": "suicide"
+  },
+  {
+    "question": "At what age did the director of Triumph of the Will pass away?",
+    "gold_answers": [
+      "101"
+    ],
+    "prediction": "85"
+  },
+  {
+    "question": "Who was the oldest person to give a speech to the Congress in Triumph of the WIll?",
+    "gold_answers": [
+      "Julius Streicher"
+    ],
+    "prediction": "Wilhelm II"
+  },
+  {
+    "question": "Of the two wrestlers that Mysterio faced off against before May 19, who is the newest member of the WWE?",
+    "gold_answers": [
+      "Mark Henry"
+    ],
+    "prediction": "Randy Orton"
+  },
+  {
+    "question": "In what year did the wrestler challenged by JBL first join the WWE?",
+    "gold_answers": [
+      "2002"
+    ],
+    "prediction": "2001"
+  },
+  {
+    "question": "How many years of wrestling experience does the man who declared himself the number-one contender have?",
+    "gold_answers": [
+      "17"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "What was the combined age of Teatro dell'Opera di Roma and Teatro di San Carlo when Simone Alaimo first performed there?",
+    "gold_answers": [
+      "347"
+    ],
+    "prediction": "109"
+  },
+  {
+    "question": "How long had the Lyric Opera of Chicago been in operation when Simone Alaimo sang the role of Mustafà?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "25 years"
+  },
+  {
+    "question": "What city was Jet Ski Lady's last race in?",
+    "gold_answers": [
+      "Longchamp "
+    ],
+    "prediction": "Miami"
+  },
+  {
+    "question": "What year was Georgia Southern founded?",
+    "gold_answers": [
+      "1906"
+    ],
+    "prediction": "1899"
+  },
+  {
+    "question": "How many years after Vsevolod Yaroslavich was Ingvar Yaroslavich born?",
+    "gold_answers": [
+      "150"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "Which place is older, Chernihiv or Lutsk?",
+    "gold_answers": [
+      "Lutsk\n"
+    ],
+    "prediction": "Chernihiv"
+  },
+  {
+    "question": "What types of planes did the Australian Flying Corps use the year Holden volunteered for them?",
+    "gold_answers": [
+      "single-engined biplanes",
+      "twin-engined bomber"
+    ],
+    "prediction": "World War I airplanes"
+  },
+  {
+    "question": "Which team had been around longest when Burnside began his professional career?",
+    "gold_answers": [
+      "Pittsburgh Pirates"
+    ],
+    "prediction": "New York Highlanders"
+  },
+  {
+    "question": "What modern day country is Strasbourg part of?",
+    "gold_answers": [
+      "France"
+    ],
+    "prediction": "France"
+  },
+  {
+    "question": "What mountain range is Gotthard Pass part of?",
+    "gold_answers": [
+      "the Swiss Alps"
+    ],
+    "prediction": "Alps"
+  },
+  {
+    "question": "Where was the person born who sings Glamorous Sky?",
+    "gold_answers": [
+      "Kyushu"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "How long had the Bee Gees been making music for by the year Saturday Night Fever was released?",
+    "gold_answers": [
+      "19"
+    ],
+    "prediction": "40 years"
+  },
+  {
+    "question": "What age was Donna Summer the year Saturday Night Fever was released?",
+    "gold_answers": [
+      "29"
+    ],
+    "prediction": "28"
+  },
+  {
+    "question": "How many members were in the Bee Gee's the year Saturday Night Fever was released?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "7"
+  },
+  {
+    "question": "How many players from the Boston Red Sox have won MVP?",
+    "gold_answers": [
+      " 12"
+    ],
+    "prediction": "David Ortiz"
+  },
+  {
+    "question": "What sport is the Rose Bowl?",
+    "gold_answers": [
+      " football"
+    ],
+    "prediction": "American football"
+  },
+  {
+    "question": "Who is the older between James Graham and his brother?",
+    "gold_answers": [
+      "James Graham"
+    ],
+    "prediction": "James Graham"
+  },
+  {
+    "question": "When was the university where William Alexander Graham graduated from established?",
+    "gold_answers": [
+      "1789"
+    ],
+    "prediction": "1785"
+  },
+  {
+    "question": "For how many years did the war last at the end of which McJunkin was nine years old?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "Which state where McJunkin worked as a foreman or buffalo hunter has a larger population?",
+    "gold_answers": [
+      "Colorado "
+    ],
+    "prediction": "Texas"
+  },
+  {
+    "question": "Where can one visit the museum that inducted McJunkin into its Hall of Great Westerners?",
+    "gold_answers": [
+      "Oklahoma City, Oklahoma"
+    ],
+    "prediction": "Galveston Museum of Science and History"
+  },
+  {
+    "question": "In which U.S. state is Perlmutter's childhood neighborhood located?",
+    "gold_answers": [
+      "Pennsylvania"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "Which university that Perlmutter graduated from has more students?",
+    "gold_answers": [
+      " University of California, Berkeley"
+    ],
+    "prediction": "Columbia University"
+  },
+  {
+    "question": "How old was the person traded to the Oakland Athletics when the trade occurred?",
+    "gold_answers": [
+      "29"
+    ],
+    "prediction": "24"
+  },
+  {
+    "question": "Of the person Will shared right field with and the one who accused him of throwing elbows, which one is younger?",
+    "gold_answers": [
+      "Kyle Blanks"
+    ],
+    "prediction": "Will shared right field with Pete and was accused of throwing elbows by Billy. Billy is younger."
+  },
+  {
+    "question": "Between the teams that traded Scott Hairston and the one the Padres played on July 12, which one was established first?",
+    "gold_answers": [
+      "San Francisco Giants"
+    ],
+    "prediction": "New York Yankees"
+  },
+  {
+    "question": "Which of the films that Ellenshaw produced visual effects for made the most at the box office?",
+    "gold_answers": [
+      " Star Wars"
+    ],
+    "prediction": "Avatar"
+  },
+  {
+    "question": "How many years were there between the Boulanger Affair and the formation of Action francaise?",
+    "gold_answers": [
+      "10"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "Who won the Space Race of the 1960s?",
+    "gold_answers": [
+      "The Soviet Union"
+    ],
+    "prediction": "United States"
+  },
+  {
+    "question": "When were the canceled Apollo Moon landings supposed to take place?",
+    "gold_answers": [
+      "February 1967",
+      "February 1972",
+      " July 1972,",
+      "December 1972"
+    ],
+    "prediction": "1970s"
+  },
+  {
+    "question": "During what years did the war take place that Walter Mondale participated in?",
+    "gold_answers": [
+      "25 June 1950 – 27 July 1953"
+    ],
+    "prediction": "1942-1945"
+  },
+  {
+    "question": "How many children did the person who lived in Alexandria, VA have?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "When did the prison that housed female prisoners during the Women's Suffrage movement close?",
+    "gold_answers": [
+      "1990s"
+    ],
+    "prediction": "1900"
+  },
+  {
+    "question": "What year did John Henry Antes complete the building of his home?",
+    "gold_answers": [
+      "1778"
+    ],
+    "prediction": "1912"
+  },
+  {
+    "question": "Who founded the city where Stanley delivered a fur coat?",
+    "gold_answers": [
+      "Pierre Laclède and his stepson Auguste Chouteau"
+    ],
+    "prediction": "Christopher Columbus"
+  },
+  {
+    "question": "What is the current population of the city that Marcus personally delivered a fur coat to a customer in?",
+    "gold_answers": [
+      "302,838"
+    ],
+    "prediction": "6500000"
+  },
+  {
+    "question": "How long before the debut on \"Sesame Street\" had Jim Henson created the Muppets?",
+    "gold_answers": [
+      "14"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "In what year was the railway company that was authorized to build two extensions in 1873 founded?",
+    "gold_answers": [
+      "1863 "
+    ],
+    "prediction": "1845"
+  },
+  {
+    "question": "What is the population of the place where the extension would connect to West Kirby?",
+    "gold_answers": [
+      "5,710 "
+    ],
+    "prediction": "119000"
+  },
+  {
+    "question": "In which country was Binder born?",
+    "gold_answers": [
+      "Austria"
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "Who was the winner of the FIA Formula Two Championship in 2011?",
+    "gold_answers": [
+      "Mirko Bortolotti"
+    ],
+    "prediction": "Max Chilton"
+  },
+  {
+    "question": "Which Austrian city is the Red Bull Ring located in?",
+    "gold_answers": [
+      "Spielberg"
+    ],
+    "prediction": "Munich"
+  },
+  {
+    "question": "Were the Sons of Liberty active before or after the meeting of the Stamp Act Congress?",
+    "gold_answers": [
+      "before "
+    ],
+    "prediction": "Before"
+  },
+  {
+    "question": "When was the engineer who died in 1904 born?",
+    "gold_answers": [
+      "5 April 1844"
+    ],
+    "prediction": "1831"
+  },
+  {
+    "question": "Which of the places where the steam railcars were stationed is older?",
+    "gold_answers": [
+      "St Leonards"
+    ],
+    "prediction": "Liverpool Street Station"
+  },
+  {
+    "question": "When was the department that borrowed the steam railcars first formed?",
+    "gold_answers": [
+      "1794 "
+    ],
+    "prediction": "1965"
+  },
+  {
+    "question": "What is the English translation for the word \"Wahy\"?",
+    "gold_answers": [
+      "revelation"
+    ],
+    "prediction": "Wahyuu"
+  },
+  {
+    "question": "What university did de Bary attend to gain his knowledge on East Asian studies?",
+    "gold_answers": [
+      "Columbia College"
+    ],
+    "prediction": "Harvard University"
+  },
+  {
+    "question": "How many versus are in the shortest surah in the Qur'an?",
+    "gold_answers": [
+      "114"
+    ],
+    "prediction": "2"
+  },
+  {
+    "question": "Where was the field marshal who considered Whitty the best field commander of the Eighth Army born?",
+    "gold_answers": [
+      "Kennington, Surrey"
+    ],
+    "prediction": "Silesia"
+  },
+  {
+    "question": "Were more soldiers wounded in the revolt in which Whitty served, or in to the campaign he fought in Italy?",
+    "gold_answers": [
+      " Italian Campaign"
+    ],
+    "prediction": "Revolt"
+  },
+  {
+    "question": "How many people died in the revolt in which Whitty was awarded the Military Cross?",
+    "gold_answers": [
+      "5562"
+    ],
+    "prediction": "199"
+  },
+  {
+    "question": "The network does the Australian television series that features Stephanie Bendixsen and Steven O'donnell air on?",
+    "gold_answers": [
+      "the Australian Broadcasting Corporation"
+    ],
+    "prediction": "ABC"
+  },
+  {
+    "question": "How old was the current NWA World Champion in the first Starrcade?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "40"
+  },
+  {
+    "question": "How long is the Gualala River?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "162 km"
+  },
+  {
+    "question": "What ocean is the San Francisco Pensinsula located?",
+    "gold_answers": [
+      "Pacific"
+    ],
+    "prediction": "Pacific"
+  },
+  {
+    "question": "What is the county seat of Marin county?",
+    "gold_answers": [
+      "San Rafael"
+    ],
+    "prediction": "San Rafael"
+  },
+  {
+    "question": "What college did Lawson teach at?",
+    "gold_answers": [
+      "University of California, Berkeley"
+    ],
+    "prediction": "University of Oklahoma"
+  },
+  {
+    "question": "How long did the empire that modified the fort during the 13th century last?",
+    "gold_answers": [
+      "310"
+    ],
+    "prediction": "1400 years"
+  },
+  {
+    "question": "How old was Charles when his series with Vallow premiered on UPN?",
+    "gold_answers": [
+      "43"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "What year did Vallow produce the third season of a show?",
+    "gold_answers": [
+      "2001"
+    ],
+    "prediction": "2021"
+  },
+  {
+    "question": "How old was Yu when she directed an award-winning documentary?",
+    "gold_answers": [
+      "48"
+    ],
+    "prediction": "28"
+  },
+  {
+    "question": "Which pilot did Vallow produce first?",
+    "gold_answers": [
+      "American Dad!"
+    ],
+    "prediction": "Vallow produced \"The Affair\" first."
+  },
+  {
+    "question": "When did Citadel Media become Cumulus Media Networks?",
+    "gold_answers": [
+      "September 2011"
+    ],
+    "prediction": "2011"
+  },
+  {
+    "question": "Who is the current governor of the state where Jones was born?",
+    "gold_answers": [
+      "Brian Kemp"
+    ],
+    "prediction": "Mike DeWine"
+  },
+  {
+    "question": "How long is the river in San Antonio where Jones drove cotton carrying wagon along the river?",
+    "gold_answers": [
+      "2060 km"
+    ],
+    "prediction": "200 miles"
+  },
+  {
+    "question": "How old was Nusslein-Volhard when she won the Nobel Prize in Physiology and Medicine?",
+    "gold_answers": [
+      "53"
+    ],
+    "prediction": "62"
+  },
+  {
+    "question": "Of the three Lehigh River tributaries that drain into the Delaware River, which is the longest?",
+    "gold_answers": [
+      " the Monocacy"
+    ],
+    "prediction": "West Branch Susquehanna"
+  },
+  {
+    "question": "What is the age difference between the two rappers who performed in Victory?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "Who directed the movie that \"Going the Distance\" was featured on?",
+    "gold_answers": [
+      "John G. Avildsen"
+    ],
+    "prediction": "Tom McCarthy"
+  },
+  {
+    "question": "How old was Puff Daddy when he recorded Victory?",
+    "gold_answers": [
+      "28"
+    ],
+    "prediction": "41"
+  },
+  {
+    "question": "How long did the Pleiku Campaign take place?",
+    "gold_answers": [
+      "from 23 October to 26 November 1965"
+    ],
+    "prediction": "1967-1968"
+  },
+  {
+    "question": "How old was Moore when he was promoted to Lieutenant Colonel?",
+    "gold_answers": [
+      "42"
+    ],
+    "prediction": "60"
+  },
+  {
+    "question": "How long had Frederick Steele been a general for the year Shelby's men harassed the Union Army?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "How long had Little Rock been incorporated for the year Gordon led his regiment at the Battle of Marks' Mills?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "129 years"
+  },
+  {
+    "question": "How tall is the mountain range where the Snoqualmie and Skykomish Rivers originate?",
+    "gold_answers": [
+      "14411 ft."
+    ],
+    "prediction": "1,046 m"
+  },
+  {
+    "question": "What is the difference between the amount of gills the species known to prey on the crossback stingaree have compared to most shark species?",
+    "gold_answers": [
+      "2"
+    ],
+    "prediction": "Crossback stingaree prey have more gills."
+  },
+  {
+    "question": "What is the maximum length of the species that is known to prey on the crossback stingaree?",
+    "gold_answers": [
+      " 3 m"
+    ],
+    "prediction": "Whales"
+  },
+  {
+    "question": "Of the games SethBling wrote AI programs for, which one has sold more copies?",
+    "gold_answers": [
+      "Super Mario Bros"
+    ],
+    "prediction": "Grand Theft Auto V"
+  },
+  {
+    "question": "When was the base Alasdair served as station commander at established?",
+    "gold_answers": [
+      "1944 "
+    ],
+    "prediction": "2014"
+  },
+  {
+    "question": "How long had the first nation in which Longaretti in World War II been a nation at the time he served there?",
+    "gold_answers": [
+      "21"
+    ],
+    "prediction": "120 years"
+  },
+  {
+    "question": "Of the venues in which Longaretti exhibited his works in 1942, which was the newest?",
+    "gold_answers": [
+      "Venice Biennale"
+    ],
+    "prediction": "Milan Triennale"
+  },
+  {
+    "question": "How old was the town or city in which Longaretti had his first personal exhibition?",
+    "gold_answers": [
+      "2069 "
+    ],
+    "prediction": "22"
+  },
+  {
+    "question": "What year was Richard Burt's grandfather born?",
+    "gold_answers": [
+      "1847 "
+    ],
+    "prediction": "1890"
+  },
+  {
+    "question": "What year did the grammar school that Richard Burt attended open?",
+    "gold_answers": [
+      "1896 "
+    ],
+    "prediction": "1854"
+  },
+  {
+    "question": "How old was Thomas Andrews the year that John Milne's aeroplane went missing?",
+    "gold_answers": [
+      "64"
+    ],
+    "prediction": "29"
+  },
+  {
+    "question": "Who was older at the time John Milne Jnr's aeroplane went missing, Thomas Andrews or Wilfrid Spender?",
+    "gold_answers": [
+      "Thomas Andrews"
+    ],
+    "prediction": "Thomas Andrews"
+  },
+  {
+    "question": "How many King's Cup Races had been held by the time John Milne Jr went missing?",
+    "gold_answers": [
+      "15"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "In what state did the first openly all-professinal baseball team play?",
+    "gold_answers": [
+      " Ohio"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "In what year was the National Association of the Professional Base Ball Players formed?",
+    "gold_answers": [
+      "1871"
+    ],
+    "prediction": "1871"
+  },
+  {
+    "question": "How many charter members were there in the National Association of Professional Base Ball Players?",
+    "gold_answers": [
+      "23"
+    ],
+    "prediction": "82"
+  },
+  {
+    "question": "What states are the two teams that have been organized the longest in professional baseball from?",
+    "gold_answers": [
+      "Massachusetts",
+      "Illinois"
+    ],
+    "prediction": "Massachusetts and Pennsylvania"
+  },
+  {
+    "question": "How long had the Second World War been going on when Ryder was promoted to commander of the Q-ship that was sunk?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "Who were the other people awarded the highest award for valor of the British Empire?",
+    "gold_answers": [
+      "five"
+    ],
+    "prediction": "George VI, Winston Churchill, and many others."
+  },
+  {
+    "question": "Who designed Hans Klemm's first light aircraft?",
+    "gold_answers": [
+      "Daimler "
+    ],
+    "prediction": "Gottlieb Lippich"
+  },
+  {
+    "question": "How many years had the Taj Mahal been standing for when Stanko recorded solo work there?",
+    "gold_answers": [
+      "330"
+    ],
+    "prediction": "168"
+  },
+  {
+    "question": "Which of the movies that Patrick Lin worked on between 1998 and 2010 grossed the highest at the US box office?",
+    "gold_answers": [
+      "Monsters, Inc."
+    ],
+    "prediction": "Ocean's Eleven"
+  },
+  {
+    "question": "How many years after the founding of Pixar was the movie A Bug's Life created?",
+    "gold_answers": [
+      "19"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "In which country was Ariadne auf Naxos first presented?",
+    "gold_answers": [
+      "Austria"
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "What age was Lehmann when she first play Ariadne?",
+    "gold_answers": [
+      "38"
+    ],
+    "prediction": "17"
+  },
+  {
+    "question": "Which actress who played Ariadne is the oldest?",
+    "gold_answers": [
+      "Lotte Lehmann"
+    ],
+    "prediction": "Francesca Farra"
+  },
+  {
+    "question": "What was the first city where Dragoumis attended law school?",
+    "gold_answers": [
+      "Paris"
+    ],
+    "prediction": "Athens"
+  },
+  {
+    "question": "Who was the first president of the organization Nancy Cartwright was elected to lead from 2020 to 2023?",
+    "gold_answers": [
+      "Charles Singer"
+    ],
+    "prediction": "Richard Attabayev"
+  },
+  {
+    "question": "Which church was built first, St. Peter's basilica or the city cathedral of St. John at the Lateran?",
+    "gold_answers": [
+      "St. John at the Lateran"
+    ],
+    "prediction": "St. John at the Lateran"
+  },
+  {
+    "question": "How often is the World Water Forum held?",
+    "gold_answers": [
+      " every three years"
+    ],
+    "prediction": "every 3 years"
+  },
+  {
+    "question": "In which country was the 2nd World Water Forum held?",
+    "gold_answers": [
+      "Netherlands"
+    ],
+    "prediction": "Brazil"
+  },
+  {
+    "question": "In what country was von Maillinger born?",
+    "gold_answers": [
+      "Germany"
+    ],
+    "prediction": "Austria"
+  },
+  {
+    "question": "How many years did the Franco-Prussian War last?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "两年"
+  },
+  {
+    "question": "Which of the open source tools for graffiti writers and activists that Powderly developed came first?",
+    "gold_answers": [
+      "LED throwies"
+    ],
+    "prediction": "GraffitiLAN"
+  },
+  {
+    "question": "Who founded the institution where Powderly served as a professor in the Visual Communication Design Department?",
+    "gold_answers": [
+      "Daejongkyo"
+    ],
+    "prediction": "Frank Lloyd Wright"
+  },
+  {
+    "question": "In which state was the Samson and Delilah opera revived during The Metropolitan Opera's 1915/1916 season? ",
+    "gold_answers": [
+      " New York "
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "What was the vocal range of the singer who performed in Samson and Delilah as Delilah at the Metropolitan Opera during its 1915/1916 season?",
+    "gold_answers": [
+      "mezzo-soprano"
+    ],
+    "prediction": "Soprano"
+  },
+  {
+    "question": "What profession did Daniel Ernst Jablonski's older brother have?",
+    "gold_answers": [
+      "educator and lexicographer"
+    ],
+    "prediction": "Doctor"
+  },
+  {
+    "question": "Who was the leader of Los Gatos when La balsa was released?",
+    "gold_answers": [
+      " Litto Nebbia"
+    ],
+    "prediction": "Carlos Gardel"
+  },
+  {
+    "question": "At what age did Litto Nebbia write La balsa?",
+    "gold_answers": [
+      "19 "
+    ],
+    "prediction": "17"
+  },
+  {
+    "question": "How long had Juan Carlos Onganía been leading Argentina by the year La balsa was written?",
+    "gold_answers": [
+      "11"
+    ],
+    "prediction": "10 years"
+  },
+  {
+    "question": "Who is the CEO of the parent company of the subsidiary that released La balsa?",
+    "gold_answers": [
+      "Peter Edge"
+    ],
+    "prediction": "Bernhard Humm"
+  },
+  {
+    "question": "What years did Henry VIII rule?",
+    "gold_answers": [
+      "1509 until his death in 1547"
+    ],
+    "prediction": "1509-1547"
+  },
+  {
+    "question": "How old was Oliver Humperdink the year Roberston won the NWA Central States Television Championship?",
+    "gold_answers": [
+      "32"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "Who was older the year Robertson won the NWA Central States Television Championship, Humperdink or James Dillon?",
+    "gold_answers": [
+      "J.J. Dillon\n\nJames Morrison"
+    ],
+    "prediction": "Hummerdink"
+  },
+  {
+    "question": "How long had Central States Wrestling been in business the year Robertson won the NWA Central States Television Championship?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "15 years"
+  },
+  {
+    "question": "How old was Manny Fernandez when he lost the NWA Central States Heavyweight Championship to Robertson?",
+    "gold_answers": [
+      "29"
+    ],
+    "prediction": "24"
+  },
+  {
+    "question": "What age was Jerry Valiant the year Roberston's final title reign ended?",
+    "gold_answers": [
+      "42"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "Who was team manager at Reading's academy before the man whose resignation led to the appointment of Steve Coppell?",
+    "gold_answers": [
+      "Bullivant"
+    ],
+    "prediction": "Steve Coppell"
+  },
+  {
+    "question": "What is the current population of the city where many banks were over-leverage after the end of the Seven Years' War?",
+    "gold_answers": [
+      "866,737 within the city proper, 1,380,872 in the urban area, and 2,410,960 in the metropolitan area."
+    ],
+    "prediction": "London"
+  },
+  {
+    "question": "Which team won the All-Star Game where Yost was a reserve player?",
+    "gold_answers": [
+      "National League"
+    ],
+    "prediction": "Los Angeles Dodgers"
+  },
+  {
+    "question": "Which of the countries where Commelina hockii can possibly be found has the largest population? ",
+    "gold_answers": [
+      "Angola"
+    ],
+    "prediction": "India"
+  },
+  {
+    "question": "How long had Jimmy Palao been playing violin for the year Dodds moved to California?",
+    "gold_answers": [
+      "36"
+    ],
+    "prediction": "5 years"
+  },
+  {
+    "question": "Who was older the year Dodds joined Fate Marable's riverboat band, Louis Armstrong or Jimmy Palao?",
+    "gold_answers": [
+      "James Palao"
+    ],
+    "prediction": "Louis Armstrong"
+  },
+  {
+    "question": "How long had California been a state for by the year Dodds moved there?",
+    "gold_answers": [
+      "73"
+    ],
+    "prediction": "50 years"
+  },
+  {
+    "question": "How much time was between the deaths of the people carried by General Utility Van No. 132 before the Unknown Warrior?",
+    "gold_answers": [
+      "9"
+    ],
+    "prediction": "28 hours"
+  },
+  {
+    "question": "When was the building the Unknown Warrior's body was taken to built?",
+    "gold_answers": [
+      "the early 2nd century"
+    ],
+    "prediction": "1910"
+  },
+  {
+    "question": "How many years was the Las Vegas Hilton called the International Hotel before it was renamed?",
+    "gold_answers": [
+      "two years"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "What teams had the newly hired head coach and offensive co-ordinator for the Argonauts worked for previously?",
+    "gold_answers": [
+      "Carleton University Ravens",
+      "University of Ottawa Gee-Gees ",
+      "Rough Riders",
+      "Toronto Argonauts",
+      "Hamilton Tiger-Cats",
+      " Denver Gold, the WLAF's New York/New Jersey Knights, and the Arena Football League's Detroit Fury",
+      " San Diego Riptide",
+      "Atlanta Falcons",
+      " Detroit Lions",
+      "Toronto Argonauts"
+    ],
+    "prediction": "Hamilton Tiger-Cats"
+  },
+  {
+    "question": "In what state did Sanders start his college career?",
+    "gold_answers": [
+      "Texas"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "In what modern day state is the chruch located in?",
+    "gold_answers": [
+      "Maryland"
+    ],
+    "prediction": "Delaware"
+  },
+  {
+    "question": "Where was the person who led the Ottoman Bosnian leadership born?",
+    "gold_answers": [
+      "Bosnia"
+    ],
+    "prediction": "Prishtina"
+  },
+  {
+    "question": "Where was the person who granted Serbia autonomy born?",
+    "gold_answers": [
+      "Ottoman Empire"
+    ],
+    "prediction": "Prishtina"
+  },
+  {
+    "question": "What country is the city the couple got married in, in 1910?",
+    "gold_answers": [
+      "Canada"
+    ],
+    "prediction": "United States"
+  },
+  {
+    "question": "What's the current population of the city they were married in?",
+    "gold_answers": [
+      "2,731,571"
+    ],
+    "prediction": "Unknown"
+  },
+  {
+    "question": "When was the museum the family lived in an apartment near established?",
+    "gold_answers": [
+      "1876"
+    ],
+    "prediction": "1903"
+  },
+  {
+    "question": "Who was the person the town's name comes from where the couple had a summer cabin?",
+    "gold_answers": [
+      "English captain William Tom, farmer and ferryman Thomas Luker, or a Native American named Tom."
+    ],
+    "prediction": "George Washington"
+  },
+  {
+    "question": "What year was the tech company that made the products used by U2 on their concerts found?",
+    "gold_answers": [
+      "1979"
+    ],
+    "prediction": "1985"
+  },
+  {
+    "question": "When did the country Ottwalt went into exile in founded?",
+    "gold_answers": [
+      "12,500 BC"
+    ],
+    "prediction": "Netherlands"
+  },
+  {
+    "question": "When was the country Ottwalt passed through on his way to the Soviet Union founded?",
+    "gold_answers": [
+      "1935"
+    ],
+    "prediction": "Poland"
+  },
+  {
+    "question": "Who was in charge of the country Ottwalt finally ended up in?",
+    "gold_answers": [
+      "Stalin "
+    ],
+    "prediction": "King Richard III"
+  },
+  {
+    "question": "Of the countries Ottwalt passed through, which one existed as a country for the longest?",
+    "gold_answers": [
+      "Denmark"
+    ],
+    "prediction": "China"
+  },
+  {
+    "question": "When was the town Ottwalt lived in while writing for an exile magazine founded?",
+    "gold_answers": [
+      "1147"
+    ],
+    "prediction": "1950s"
+  },
+  {
+    "question": "What is the population of the town that Ottwalt ended up living in while he wrote for a magazine?",
+    "gold_answers": [
+      "15.1 million residents within the city limits, 17 million within the urban area and 25 million within the metropolitan area"
+    ],
+    "prediction": "100000"
+  },
+  {
+    "question": "What is the full name for the enforcement body that arrested Ottwalt and his wife?",
+    "gold_answers": [
+      "The People's Commissariat for Internal Affairs",
+      "Narodnyy Komissariat Vnutrennikh Del"
+    ],
+    "prediction": "European Court of Human Rights"
+  },
+  {
+    "question": "How old was Leopoldo Calvo-Sotelo when elected president?",
+    "gold_answers": [
+      "55"
+    ],
+    "prediction": "82"
+  },
+  {
+    "question": "Who was younger when elected president, Calvo-Sotelo or Gonzalez?",
+    "gold_answers": [
+      "Felipe González"
+    ],
+    "prediction": "Calvo-Sotelo"
+  },
+  {
+    "question": "In what city did one of Austin Town's legends and local heros lead India to victory in during the 1951 Asian Games?",
+    "gold_answers": [
+      "New Delhi,"
+    ],
+    "prediction": "Kochi"
+  },
+  {
+    "question": "Which legendary footballer born in Austin Town is younger in age, Ulaganathan or Carlton Chapman?",
+    "gold_answers": [
+      "Carlton Chapman"
+    ],
+    "prediction": "Ulaganathan"
+  },
+  {
+    "question": "Which order is older, the Cistercians or the Dominicans?",
+    "gold_answers": [
+      " Cistercians"
+    ],
+    "prediction": "Cistercians"
+  },
+  {
+    "question": "Which religious order is newer the Poor Clares or the Trappistines?",
+    "gold_answers": [
+      "Trappistines"
+    ],
+    "prediction": "Trappistines"
+  },
+  {
+    "question": "Which order are the monks from that opened up a new monastery in 2007?",
+    "gold_answers": [
+      "the Trappists"
+    ],
+    "prediction": "Monk Order"
+  },
+  {
+    "question": "What year did the Trappistine nuns open a new cloister?",
+    "gold_answers": [
+      "1207"
+    ],
+    "prediction": "2005"
+  },
+  {
+    "question": "Who wrote the letters that stated Nubian fighting men were sought after by kingdoms in Southwest Asia?",
+    "gold_answers": [
+      "the Egyptian administration and its representatives in Canaan and Amurru"
+    ],
+    "prediction": "Abu Zaid Aban ibn Said"
+  },
+  {
+    "question": "Who was Galeazzo Ciano's wife?",
+    "gold_answers": [
+      "Edda Ciano"
+    ],
+    "prediction": "Margherita Ciano"
+  },
+  {
+    "question": "What country was Victor Emmanuell III king of?",
+    "gold_answers": [
+      "Italy "
+    ],
+    "prediction": "Italy"
+  },
+  {
+    "question": "In which country was the battle fought where O'Connor commanded the VIII Corps?",
+    "gold_answers": [
+      "France"
+    ],
+    "prediction": "Germany"
+  },
+  {
+    "question": "What month did the operation start in which O'Connor's forces destroyed a much larger Italian army?",
+    "gold_answers": [
+      "December"
+    ],
+    "prediction": "October"
+  },
+  {
+    "question": "In what year was the university founded that Horton coaches for?",
+    "gold_answers": [
+      "1897"
+    ],
+    "prediction": "2012"
+  },
+  {
+    "question": "In what year was the university founded that Horton replaced Tim Brewster at?",
+    "gold_answers": [
+      "1851"
+    ],
+    "prediction": "1905"
+  },
+  {
+    "question": "Which is the oldest university that Jeff Horton has coached at?",
+    "gold_answers": [
+      "University of Minnesota"
+    ],
+    "prediction": "Harvard"
+  },
+  {
+    "question": "Which is the oldest NFL team that Horton coached with?",
+    "gold_answers": [
+      "Detroit Lions"
+    ],
+    "prediction": "Green Bay Packers"
+  },
+  {
+    "question": "How many years were there between Bryson Sr's arrival in Canada and the establishment of the Bank of Ottawa?",
+    "gold_answers": [
+      "53"
+    ],
+    "prediction": "40"
+  },
+  {
+    "question": "Who owns the record company with which the band debuted?",
+    "gold_answers": [
+      "Bill Wilson and Jim Gibson"
+    ],
+    "prediction": "Warner Bros."
+  },
+  {
+    "question": "How many songs were on the full-length debut album?",
+    "gold_answers": [
+      "12"
+    ],
+    "prediction": "15"
+  },
+  {
+    "question": "What is the home town of the Major who Roux became private chef to after returning to the UK?",
+    "gold_answers": [
+      "Shipbourne, Kent"
+    ],
+    "prediction": "London"
+  },
+  {
+    "question": "How old was Beverley Dandridge Tucker's father when his Beverley's brother Henry was born?",
+    "gold_answers": [
+      "28"
+    ],
+    "prediction": "69"
+  },
+  {
+    "question": "What cities did Hubbick play football in before he turned professional?",
+    "gold_answers": [
+      "Jarrow",
+      "Blyth",
+      "Spennymoor"
+    ],
+    "prediction": "London, Cambridge"
+  },
+  {
+    "question": "Which of the left-handed pitchers that the Reds relied on to pacify the Yankees was older?",
+    "gold_answers": [
+      "Fred Norman"
+    ],
+    "prediction": "Lefty John McNally"
+  },
+  {
+    "question": "What is the hometown of the person who got frustrated and threw a baseball from the dugout in the bottom of the eighth?",
+    "gold_answers": [
+      "Berkeley"
+    ],
+    "prediction": "Cincinnati"
+  },
+  {
+    "question": "How many world championships have been won by the team that the Reds outscored 22-8?",
+    "gold_answers": [
+      " 27"
+    ],
+    "prediction": "1"
+  },
+  {
+    "question": "What is the home stadium of the team that the Cincinnati Reds outscored 22-8?",
+    "gold_answers": [
+      "Yankee Stadium"
+    ],
+    "prediction": "AT&T Park"
+  },
+  {
+    "question": "How many different MLB teams did the player who had nine hits, all singles, and a .529 batting average play for throughout his career?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "Of the presidents Strom supported, which one was older when they first took office?",
+    "gold_answers": [
+      "Ronald Reagan"
+    ],
+    "prediction": "John F. Kennedy"
+  },
+  {
+    "question": "Of the states where President Ford was born and the one he lived most of his life, which was admitted to the United States most recently?",
+    "gold_answers": [
+      "Nebraska"
+    ],
+    "prediction": "Michigan"
+  },
+  {
+    "question": "What was the age difference between Ronald Reagan and his running mate?",
+    "gold_answers": [
+      "15"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "How long had the Senator held his position before he helped Thurmond to try to get Schweiker off the ticket?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "16 years"
+  },
+  {
+    "question": "How old was Snow Chief in the 1986 Kentucky Derby race?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "16"
+  },
+  {
+    "question": "Which horse was older during it's race paired with Alex, Johar or Pleasantly Perfect?",
+    "gold_answers": [
+      "Pleasantly Perfect"
+    ],
+    "prediction": "Johar"
+  },
+  {
+    "question": "Where was the oil magnate that built Baku's first multi-family residential born?",
+    "gold_answers": [
+      " near Baku"
+    ],
+    "prediction": "Russia"
+  },
+  {
+    "question": "Which of the cities where CDPQ is located has a larger population?",
+    "gold_answers": [
+      "Montreal\n"
+    ],
+    "prediction": "Montreal"
+  },
+  {
+    "question": "Which of the cities where CDPQ maintains offices was founded first?",
+    "gold_answers": [
+      "Quebec City"
+    ],
+    "prediction": "Québec City"
+  },
+  {
+    "question": "How many stories is the building CDPQ has its HQ in?",
+    "gold_answers": [
+      "18"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "What political party did the person in charge of the government in 1965 belong to?",
+    "gold_answers": [
+      "Liberal "
+    ],
+    "prediction": "Conservative"
+  },
+  {
+    "question": "How much money is in the largest pension fund in Canada?",
+    "gold_answers": [
+      "C$328.2 billion"
+    ],
+    "prediction": "$100 billion"
+  },
+  {
+    "question": "Which Zwart partner was born first?",
+    "gold_answers": [
+      "Scott Maxwell"
+    ],
+    "prediction": "Jeroen Zwart"
+  },
+  {
+    "question": "How does liberal theology deal with the problem of a guilty conscience?",
+    "gold_answers": [
+      "failed to account "
+    ],
+    "prediction": "It seeks to reinterpret the Bible morally."
+  },
+  {
+    "question": "Who founded the company that made the car that was crashed by John Sheldon?",
+    "gold_answers": [
+      "Lionel Martin and Robert Bamford"
+    ],
+    "prediction": "Steve Jobs"
+  },
+  {
+    "question": "How hold was his co-driver when he was in a porsche?",
+    "gold_answers": [
+      "43"
+    ],
+    "prediction": "Seated"
+  },
+  {
+    "question": "The lead camel driver was discharged from the Army in what state?",
+    "gold_answers": [
+      "Arizona"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "How many albums did Reprise produce for Filter?",
+    "gold_answers": [
+      "8"
+    ],
+    "prediction": "4"
+  },
+  {
+    "question": "Which was established first between the two websites that most deep learning systems rely on?",
+    "gold_answers": [
+      "Clickworkers"
+    ],
+    "prediction": "TensorFlow"
+  },
+  {
+    "question": "How long after the adoption of the Lithuanian press ban did Kriaučiūnas resign from the gymnasium?",
+    "gold_answers": [
+      "22"
+    ],
+    "prediction": "2 years"
+  },
+  {
+    "question": "How long after Cats was written did David first appear on Broadway?",
+    "gold_answers": [
+      "5"
+    ],
+    "prediction": "1981"
+  },
+  {
+    "question": "Where was the Ottoman Empire's capital when Mehmed the Conqueror was Sultan?",
+    "gold_answers": [
+      "Constantinople"
+    ],
+    "prediction": "Istanbul"
+  },
+  {
+    "question": "How long had Mehmed been a Sultan when his forces conquered Constantinople?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "22 years"
+  },
+  {
+    "question": "How many years were there between the end of Mehmed the Conqueror's reign and the completion of Faith Sultan Mehmet Bridge?",
+    "gold_answers": [
+      "507"
+    ],
+    "prediction": "159"
+  },
+  {
+    "question": "Of the two newspapers that Paul Lendvai was a correspondent for, which had the higher circulation?",
+    "gold_answers": [
+      "Financial Times"
+    ],
+    "prediction": "The New York Times"
+  },
+  {
+    "question": "Who played the main character in the audio drame produced by Big Finish Productions in which she played in the role of Peri Brown?",
+    "gold_answers": [
+      "Colin Baker"
+    ],
+    "prediction": "Tamsin Greig"
+  },
+  {
+    "question": "Who starred in an episode called \"Spy vs Spy\" in which Claudia ppeared in 2002?",
+    "gold_answers": [
+      "Natasha Henstridge"
+    ],
+    "prediction": "David Hasselhoff"
+  },
+  {
+    "question": "In what California county did she attend high school?",
+    "gold_answers": [
+      "Orange County,"
+    ],
+    "prediction": "Los Angeles"
+  },
+  {
+    "question": "In what country is the Ivor Novello Award given out?",
+    "gold_answers": [
+      "Britain "
+    ],
+    "prediction": "United Kingdom"
+  },
+  {
+    "question": "What group gives out the Metal Storm Awards?",
+    "gold_answers": [
+      "Metal Storm "
+    ],
+    "prediction": "Metal Hammer"
+  },
+  {
+    "question": "What was the first award that Iron Maiden received from the Metal Hammer Golden Gods Awards?",
+    "gold_answers": [
+      "Best UK"
+    ],
+    "prediction": "Best Band in the World"
+  },
+  {
+    "question": "Where is the club Danceteria located?",
+    "gold_answers": [
+      "New York City"
+    ],
+    "prediction": "Cabo Pulmo, Baja California, Mexico"
+  },
+  {
+    "question": "In what year did Karen Finley collabate with Sinead O'Connor?",
+    "gold_answers": [
+      "1990"
+    ],
+    "prediction": "1989"
+  },
+  {
+    "question": "Who else did Mark Kamins collaborate with besides Madonna and Karen Finley?",
+    "gold_answers": [
+      "DJ Johnny Dynell"
+    ],
+    "prediction": "David Byrne"
+  },
+  {
+    "question": "Who ruled Egypt in the Fourth Dynasty?",
+    "gold_answers": [
+      "Sneferu",
+      "Khufu",
+      "Djedef ",
+      "Khafre",
+      "Menkaure ",
+      "Shepseskaf "
+    ],
+    "prediction": "Khufu"
+  },
+  {
+    "question": "How many rulers ruled during the Eighteenth Dynasty?",
+    "gold_answers": [
+      "13"
+    ],
+    "prediction": "14"
+  },
+  {
+    "question": "Which Dynasty had more rulers?",
+    "gold_answers": [
+      "Eighteenth Dynasty"
+    ],
+    "prediction": "Qin Dynasty"
+  },
+  {
+    "question": "What country was azurite mined in during the 12th century?",
+    "gold_answers": [
+      "Germany"
+    ],
+    "prediction": "China"
+  },
+  {
+    "question": "What year was the university that Maung Thin retired from founded?",
+    "gold_answers": [
+      "1925"
+    ],
+    "prediction": "1925"
+  },
+  {
+    "question": "How many times was the person who sent 15,000 troops married?",
+    "gold_answers": [
+      "1"
+    ],
+    "prediction": "None"
+  },
+  {
+    "question": "How old was Yuan Shikai the year that Chu Minyi opposed his attempt to establish a new Chinese Empire? ",
+    "gold_answers": [
+      "56"
+    ],
+    "prediction": "44"
+  },
+  {
+    "question": "What was the name of the payload specialist that perished on January 28th?",
+    "gold_answers": [
+      "Gregory Jarvis"
+    ],
+    "prediction": "Christa McAuliffe"
+  },
+  {
+    "question": "How many episodes were made of the show that Lange returned to television for in 1966?",
+    "gold_answers": [
+      "120"
+    ],
+    "prediction": "15"
+  },
+  {
+    "question": "What is the birth year of the actor who Lange played the murdered wife of?",
+    "gold_answers": [
+      "1921"
+    ],
+    "prediction": "1963"
+  },
+  {
+    "question": "Who was born first, Devi or Mehtab?",
+    "gold_answers": [
+      "Devi"
+    ],
+    "prediction": "Devi"
+  },
+  {
+    "question": "Who had more films, Bibbo or Durga Khote?",
+    "gold_answers": [
+      "Durga Khote"
+    ],
+    "prediction": "Durga Khote"
+  },
+  {
+    "question": "Who directed Devi's 1935 film with Motilal?",
+    "gold_answers": [
+      "Sarvottam Badami "
+    ],
+    "prediction": "V. Shantaram"
+  },
+  {
+    "question": "How old was Walter Gibbons when he provided the dance re-edit of the first commercial 12-inch single?",
+    "gold_answers": [
+      "22"
+    ],
+    "prediction": "26"
+  },
+  {
+    "question": "Which album was released first, Delicate Sounds of Thunder or Atom Heart Mother?",
+    "gold_answers": [
+      "Atom Heart Mother "
+    ],
+    "prediction": "Delicate Sounds of Thunder"
+  },
+  {
+    "question": "How many years after Wish You Were Here was released was The Wall released?",
+    "gold_answers": [
+      "4"
+    ],
+    "prediction": "10"
+  },
+  {
+    "question": "How many albums had Pink Floyd released before Ummagumma?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "5"
+  },
+  {
+    "question": "How old was Portnoy when he began playing drums from Dream Theater?",
+    "gold_answers": [
+      "30"
+    ],
+    "prediction": "22"
+  },
+  {
+    "question": "How many years after Thorgerson designed the cover with the man on fire for Pink Floyd did he pass away?",
+    "gold_answers": [
+      "38"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "Who was the host for the music award show where Mauboy's video for \"Running Back\" was nominated?",
+    "gold_answers": [
+      "Pete Wentz"
+    ],
+    "prediction": "Tim McVeigh"
+  },
+  {
+    "question": "Which railway company that had control of the Carluke railway station is the oldest?",
+    "gold_answers": [
+      " Wishaw and Coltness Railway"
+    ],
+    "prediction": "LMS Railway"
+  },
+  {
+    "question": "Which actor is older - the actor that plays Ian Beale, or the actor that plays Phil Mitchell?",
+    "gold_answers": [
+      "Steve McFadden"
+    ],
+    "prediction": "Ian Beale actor is older."
+  },
+  {
+    "question": "What date did the Journal publish the report of Theresa May appearing on Eastenders?",
+    "gold_answers": [
+      "April 1"
+    ],
+    "prediction": "28 June 2016"
+  },
+  {
+    "question": "How old was general Frunze when he led the Red Army during the Bukhara operation?",
+    "gold_answers": [
+      "35"
+    ],
+    "prediction": "62"
+  },
+  {
+    "question": "How old was Emir Alim Khan when he fed to Dushanbe?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "18"
+  },
+  {
+    "question": "How old was Khojaev when the All-Bukharan Revolutionary Committee was established?",
+    "gold_answers": [
+      "24"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "Which war lasted for a longer time, the Hundred Years' War of the French Revolutionary Wars?",
+    "gold_answers": [
+      "The Hundred Years' War"
+    ],
+    "prediction": "Hundred Years' War"
+  },
+  {
+    "question": "Which war occured first, the Seven Years' war or the Napoleonic Wars?",
+    "gold_answers": [
+      "the Seven Years' war "
+    ],
+    "prediction": "Seven Years' War"
+  },
+  {
+    "question": "How old was Emperor Meiji of Japan when he received Ernesto Burzagli following the end of the war?",
+    "gold_answers": [
+      "54"
+    ],
+    "prediction": "19"
+  },
+  {
+    "question": "Who commanded the English army that assaulted Edinburgh Castle in 1544?",
+    "gold_answers": [
+      "Nicholas Poyntz ",
+      "Earl of Hertford"
+    ],
+    "prediction": "Douglas"
+  },
+  {
+    "question": "Who owned the palace that was burned down by the invading English army in 1544?",
+    "gold_answers": [
+      "James IV"
+    ],
+    "prediction": "King Henry VIII"
+  },
+  {
+    "question": "In which city did the English won another victory three years after they invaded Edinburgh?",
+    "gold_answers": [
+      "Musselburgh"
+    ],
+    "prediction": "London"
+  },
+  {
+    "question": "How old was the military engineer who scouted around Leith during the siege?",
+    "gold_answers": [
+      "34"
+    ],
+    "prediction": "27"
+  },
+  {
+    "question": "Which of the battles and offensives that Kazakevich led were successful?",
+    "gold_answers": [
+      "3"
+    ],
+    "prediction": "Brusilov Offensive"
+  },
+  {
+    "question": "How many years did the war that Daniil Kazakevich fought in in 1920 last?",
+    "gold_answers": [
+      "1.8"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "Which of the people who Grant collaborated with on X-Man had the longest career?",
+    "gold_answers": [
+      "Ariel Olivetti"
+    ],
+    "prediction": "Chris Claremont"
+  },
+  {
+    "question": "What is the population of the Swedish town that Malmo FF is based in?",
+    "gold_answers": [
+      "316,588"
+    ],
+    "prediction": "230000"
+  },
+  {
+    "question": "How many teams are in the league that Malmo FF is playing in?",
+    "gold_answers": [
+      "16 "
+    ],
+    "prediction": "14"
+  },
+  {
+    "question": "What state was Matthew Quay a boss of?",
+    "gold_answers": [
+      "Pennsylvania "
+    ],
+    "prediction": "Pennsylvania"
+  },
+  {
+    "question": "Who framed the McKinley Tariff?",
+    "gold_answers": [
+      "William McKinley"
+    ],
+    "prediction": "The House of Morgan."
+  },
+  {
+    "question": "What politcal party was Roosevelt and Taft a member of?",
+    "gold_answers": [
+      "Republican "
+    ],
+    "prediction": "Republican"
+  },
+  {
+    "question": "Who was Henry Cabot Lodge?",
+    "gold_answers": [
+      "Republican Senator"
+    ],
+    "prediction": "Henry Cabot Lodge was a U.S. Senator and Republican politician."
+  },
+  {
+    "question": "What team was Randy Edsall the coach of?",
+    "gold_answers": [
+      "University of Connecticut"
+    ],
+    "prediction": "Alabama"
+  },
+  {
+    "question": "What state did Bowen coach in during the 2013 season?",
+    "gold_answers": [
+      "Maryland"
+    ],
+    "prediction": "Florida"
+  },
+  {
+    "question": "How old was Maya Moore when she broke Schimmel's scoring record?",
+    "gold_answers": [
+      "26"
+    ],
+    "prediction": "21"
+  },
+  {
+    "question": "Who owned Atlanta Dream when they drafted Shoni Schimmel?",
+    "gold_answers": [
+      "Mary Brock",
+      "Kelly Loeffler"
+    ],
+    "prediction": "Auburn"
+  },
+  {
+    "question": "How long had the Atlanta Dream been in the WNBA when they drafted Shoni Schimmel?",
+    "gold_answers": [
+      "6"
+    ],
+    "prediction": "2014"
+  },
+  {
+    "question": "How many players were selected for the WNBA All-Star Game when Schimmel was named MVP?",
+    "gold_answers": [
+      "24"
+    ],
+    "prediction": "12"
+  },
+  {
+    "question": "Who was older during their time at Sports Fan Radio Network, Pete Rose or Pat O'Brian?",
+    "gold_answers": [
+      " Pete Rose,"
+    ],
+    "prediction": "Pete Rose"
+  },
+  {
+    "question": "Which company was created first, ESPN Radio or CBS Sportsline?",
+    "gold_answers": [
+      " ESPN Radio."
+    ],
+    "prediction": "ESPN Radio"
+  },
+  {
+    "question": "How Old was Pete Rose when he joined Sports Fan Radio Network?",
+    "gold_answers": [
+      "53"
+    ],
+    "prediction": "25"
+  },
+  {
+    "question": "What was the name of the Holy Roman Emporer who preceded the Emporer who granted his follower Franko land in 945?",
+    "gold_answers": [
+      "Henry the Fowler"
+    ],
+    "prediction": "Henry II"
+  },
+  {
+    "question": "How old was Reed's father when Walter L. Reed served as Inspector General of the Army?",
+    "gold_answers": [
+      "84"
+    ],
+    "prediction": "89"
+  },
+  {
+    "question": "What age was Reed's father when the medical center was named after him?",
+    "gold_answers": [
+      "58"
+    ],
+    "prediction": "80"
+  },
+  {
+    "question": "How many years after the medical center was named after his father did Reed die in the same center?",
+    "gold_answers": [
+      "7"
+    ],
+    "prediction": "20"
+  },
+  {
+    "question": "What materials are used as fuel in the type of furnace first used in the Weald to produce cast iron?",
+    "gold_answers": [
+      "coke",
+      "air (sometimes with oxygen enrichment)",
+      "ores, and flux (limestone) "
+    ],
+    "prediction": "Coal"
+  },
+  {
+    "question": "How old was the inventor of wooden pulleys when the world's first assembly line launched?",
+    "gold_answers": [
+      "32"
+    ],
+    "prediction": "89"
+  },
+  {
+    "question": "How many Pollock-Krasner Foundation grants had been awarded by the time Purcell received her second grant from that foundation?",
+    "gold_answers": [
+      "33"
+    ],
+    "prediction": "150"
+  },
+  {
+    "question": "Did Ito or Millman start playing professional tennis first?",
+    "gold_answers": [
+      "John Millman"
+    ],
+    "prediction": "Ito"
+  },
+  {
+    "question": "Who won the 2006 World Cup?",
+    "gold_answers": [
+      "Italy"
+    ],
+    "prediction": "France"
+  },
+  {
+    "question": "When was CA Osasuna founded?",
+    "gold_answers": [
+      "1920"
+    ],
+    "prediction": "1899"
+  },
+  {
+    "question": "Where did Dudow work with Leopold Jessner?",
+    "gold_answers": [
+      "Berlin State Theatre"
+    ],
+    "prediction": "Berlin"
+  },
+  {
+    "question": "What university did Max Herrmann teach at?",
+    "gold_answers": [
+      "University of Berlin"
+    ],
+    "prediction": "University of Oxford"
+  },
+  {
+    "question": "How old was Claudius at the start of the first book?",
+    "gold_answers": [
+      "12"
+    ],
+    "prediction": "45"
+  },
+  {
+    "question": "Which foreign band that influenced Suffocation released their debut album earliest?",
+    "gold_answers": [
+      "Napalm Death"
+    ],
+    "prediction": "Iron Maiden"
+  },
+  {
+    "question": "What city is the record company that released Effigy of the Forgotten based in?",
+    "gold_answers": [
+      "New York City"
+    ],
+    "prediction": "New York"
+  },
+  {
+    "question": "At what age was Ivan Asen II of Bulgaria when his troops captured Irene and her family?",
+    "gold_answers": [
+      "40"
+    ],
+    "prediction": "16"
+  }
+]
