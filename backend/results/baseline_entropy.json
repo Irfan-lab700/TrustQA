@@ -1,0 +1,122 @@
+[
+  {
+    "question": "who does diane lane play in justice league",
+    "prediction": "Lois Lane",
+    "approx_entropy": 0.36931,
+    "latency_ms": 7746.63
+  },
+  {
+    "question": "what nba team used to be the buffalo braves",
+    "prediction": "Charlotte Hornets",
+    "approx_entropy": 0.61595,
+    "latency_ms": 2051.47
+  },
+  {
+    "question": "when was the first harry potter book released",
+    "prediction": "1997",
+    "approx_entropy": 0.05839,
+    "latency_ms": 2807.49
+  },
+  {
+    "question": "who plays hermione in harry potter and the cursed child",
+    "prediction": "Saoirse Ronan",
+    "approx_entropy": 0.47533,
+    "latency_ms": 3534.1
+  },
+  {
+    "question": "when does the saturday night live season start",
+    "prediction": "October 7, 2023",
+    "approx_entropy": 0.43789,
+    "latency_ms": 5372.4
+  },
+  {
+    "question": "who plays mike sonnys father on general hospital",
+    "prediction": "Grant Butler",
+    "approx_entropy": 1.47905,
+    "latency_ms": 1933.81
+  },
+  {
+    "question": "how much of the worlds bourbon is made in kentucky",
+    "prediction": "90%",
+    "approx_entropy": 0.51829,
+    "latency_ms": 2635.81
+  },
+  {
+    "question": "when the british fired on chesapeake in june 1807 congress",
+    "prediction": "declared",
+    "approx_entropy": 0.41687,
+    "latency_ms": 2927.79
+  },
+  {
+    "question": "what is the model number of the latest macbook pro",
+    "prediction": "MB82AP/A",
+    "approx_entropy": 0.83096,
+    "latency_ms": 3425.88
+  },
+  {
+    "question": "where can granite be found in the world",
+    "prediction": "various countries worldwide",
+    "approx_entropy": 0.63246,
+    "latency_ms": 2902.06
+  },
+  {
+    "question": "who owns the alluvian hotel in greenwood ms",
+    "prediction": "The Westin Resort & Spa",
+    "approx_entropy": 0.73317,
+    "latency_ms": 3798.02
+  },
+  {
+    "question": "when is camila cabello new album coming out",
+    "prediction": "June 25, 2021",
+    "approx_entropy": 0.33478,
+    "latency_ms": 5395.41
+  },
+  {
+    "question": "who wins the game in the longest yard",
+    "prediction": "Steelers",
+    "approx_entropy": 0.70199,
+    "latency_ms": 1989.2
+  },
+  {
+    "question": "when does the spider-man homecoming movie come out",
+    "prediction": "July 7, 2016",
+    "approx_entropy": 0.11319,
+    "latency_ms": 5300.25
+  },
+  {
+    "question": "what do you call rocks that form when flowing lava solidifies",
+    "prediction": "Lava rocks",
+    "approx_entropy": 0.82103,
+    "latency_ms": 2554.51
+  },
+  {
+    "question": "who plays the easter bunny in rise of the guardians",
+    "prediction": "Zach Braff",
+    "approx_entropy": 0.65885,
+    "latency_ms": 2911.39
+  },
+  {
+    "question": "where does night of the iguana take place",
+    "prediction": "Owensboro, Kentucky",
+    "approx_entropy": 0.76895,
+    "latency_ms": 3724.4
+  },
+  {
+    "question": "when does billions season 3 episode 7 air",
+    "prediction": "11 jan 2016",
+    "approx_entropy": 0.78889,
+    "latency_ms": 4942.22
+  },
+  {
+    "question": "which organ of the un has the veto powers",
+    "prediction": "Security Council",
+    "approx_entropy": 0.15683,
+    "latency_ms": 2094.06
+  },
+  {
+    "question": "who won best british male solo artist at this year's brit awards",
+    "prediction": "George Ezra",
+    "approx_entropy": 0.79497,
+    "latency_ms": 2192.48
+  }
+]
