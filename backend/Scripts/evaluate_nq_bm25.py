@@ -3,9 +3,7 @@ import pickle
 
 TOP_KS = [1, 5, 10]
 
-# -----------------------
 # Load BM25
-# -----------------------
 
 with open("data/indexes/bm25.pkl", "rb") as f:
     bm25_data = pickle.load(f)
@@ -17,16 +15,12 @@ documents = bm25_data["documents"]
 def tokenize(text):
     return text.lower().split()
 
-# -----------------------
 # Metrics
-# -----------------------
 
 hits = {1: 0, 5: 0, 10: 0}
 total = 0
 
-# -----------------------
 # Evaluate
-# -----------------------
 
 with open(
     "data/raw/nq_500.json",
@@ -74,9 +68,7 @@ with open(
             if found:
                 hits[k] += 1
 
-# -----------------------
 # Results
-# -----------------------
 
 print("\nBM25 RESULTS\n")
 

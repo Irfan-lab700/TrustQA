@@ -1,0 +1,48 @@
+{
+  "total_questions": 500,
+  "final_metrics": {
+    "exact_match": 0.27,
+    "f1": 0.37466591676812483,
+    "accuracy": 0.27
+  },
+  "tier_distribution": {
+    "tier1_accepted": 238,
+    "tier2_triggered": 262,
+    "tier1_accept_rate": 0.476,
+    "tier2_trigger_rate": 0.524
+  },
+  "tier_performance": {
+    "tier1_avg_em": 0.064,
+    "tier1_avg_f1": 0.14390509927072462,
+    "tier2_avg_em": 0.4198473282442748,
+    "tier2_avg_f1": 0.5135684535618729
+  },
+  "tier2_effectiveness": {
+    "wrong_tier1_correct_tier2": 106,
+    "correction_rate": 0.40458015267175573,
+    "correct_tier1_wrong_tier2": 3,
+    "regression_rate": 0.011450381679389313
+  },
+  "entropy": {
+    "average": 0.590965622,
+    "average_correct": 0.7305273555555556,
+    "average_wrong": 0.539346898630137,
+    "threshold": 0.2
+  },
+  "retrieval": {
+    "faiss_calls": 262,
+    "retrieval_call_rate": 0.524,
+    "calls_avoided": 238,
+    "calls_avoided_rate": 0.476
+  },
+  "not_found": {
+    "count": 77,
+    "rate": 0.154
+  },
+  "latency": {
+    "avg_tier1_sec": 4.5564132,
+    "avg_retrieval_sec": 0.0216726,
+    "avg_tier2_generation_sec": 13.9210046,
+    "avg_total_sec": 18.5047128
+  }
+}

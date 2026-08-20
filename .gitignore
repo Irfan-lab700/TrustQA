@@ -23,6 +23,8 @@ models/
 backend/models/
 *.gguf
 
+
+
 # HuggingFace cache
 .cache/
 huggingface/

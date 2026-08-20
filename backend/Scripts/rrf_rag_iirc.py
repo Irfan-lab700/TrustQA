@@ -2,37 +2,25 @@ import json
 import os
 import pickle
 import time
-
 import faiss
 import numpy as np
 
 from llama_cpp import Llama
 from sentence_transformers import SentenceTransformer
 
-
-# -----------------------------
-# CONFIG
-# -----------------------------
-
+# Config
 TOP_K = 3
 RRF_CANDIDATES = 20
 RRF_K = 60
 
 MODEL_PATH = "models/qwen/qwen2.5-3b-instruct-q4_k_m.gguf"
-
 OUTPUT_FILE = "results/rrf_rag_iirc.json"
-
 FAISS_INDEX = "data/indexes/faiss.index"
 DOCS_FILE = "data/indexes/faiss_docs.pkl"
-
 BM25_FILE = "data/indexes/bm25.pkl"
-
 EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
 
-
-# -----------------------------
-# LOAD QWEN
-# -----------------------------
+# Load Qwen
 
 print("Loading Qwen...")
 
@@ -46,10 +34,7 @@ llm = Llama(
 
 print("Qwen loaded")
 
-
-# -----------------------------
-# LOAD BM25
-# -----------------------------
+# Load BM25
 
 print("Loading BM25...")
 
@@ -61,10 +46,7 @@ bm25_documents = bm25_data["documents"]
 
 print("BM25 loaded")
 
-
-# -----------------------------
-# LOAD FAISS
-# -----------------------------
+# Load Faiss
 
 print("Loading FAISS...")
 
@@ -78,20 +60,14 @@ with open(DOCS_FILE, "rb") as f:
 print("FAISS loaded")
 print("Documents:", len(faiss_documents))
 
-
-# -----------------------------
-# DOC LOOKUP
-# -----------------------------
+# Doc lookup
 
 doc_lookup = {}
 
 for doc in faiss_documents:
     doc_lookup[doc["doc_id"]] = doc
 
-
-# -----------------------------
-# EMBEDDING MODEL
-# -----------------------------
+# Embedding model
 
 print("Loading embedding model...")
 
@@ -101,10 +77,7 @@ embedder = SentenceTransformer(
 
 print("Embedding model loaded")
 
-
-# -----------------------------
-# LOAD IIRC
-# -----------------------------
+# Load IIRC
 
 print("Loading IIRC...")
 
@@ -152,10 +125,7 @@ with open(
 
 print("Questions:", len(qa_data))
 
-
-# -----------------------------
-# RESUME SUPPORT
-# -----------------------------
+# Resume support 
 
 results = []
 
@@ -175,10 +145,7 @@ print("Already completed:", start)
 
 experiment_start = time.time()
 
-
-# -----------------------------
-# MAIN LOOP
-# -----------------------------
+# Main loop
 
 for idx in range(start, len(qa_data)):
 
@@ -190,9 +157,7 @@ for idx in range(start, len(qa_data)):
 
     retrieval_start = time.time()
 
-    # ---------------------------------
-    # BM25 TOP-20
-    # ---------------------------------
+    # BM25 Top-20
 
     bm25_scores = bm25.get_scores(
         question.lower().split()
@@ -201,10 +166,8 @@ for idx in range(start, len(qa_data)):
     bm25_ranked = np.argsort(
         bm25_scores
     )[::-1][:RRF_CANDIDATES]
-
-    # ---------------------------------
-    # FAISS TOP-20
-    # ---------------------------------
+    
+    # Faiss Top-20
 
     query_embedding = embedder.encode(
         [question],
@@ -223,9 +186,7 @@ for idx in range(start, len(qa_data)):
 
     faiss_ranked = faiss_ranked[0]
 
-    # ---------------------------------
-    # RRF FUSION
-    # ---------------------------------
+    # RRF fusion
 
     rrf_scores = {}
 
@@ -286,9 +247,7 @@ for idx in range(start, len(qa_data)):
 
     context = "\n\n".join(contexts)
 
-    # ---------------------------------
-    # PROMPT
-    # ---------------------------------
+    # Prompt
 
     prompt = f"""
 You must answer ONLY from the provided context.
@@ -398,9 +357,7 @@ Answer:
             idx + 1
         )
 
-# -----------------------------
-# SAVE FINAL
-# -----------------------------
+# Save Final
 
 os.makedirs(
     "results",

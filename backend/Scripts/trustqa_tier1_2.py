@@ -273,6 +273,7 @@ def retrieve_faiss(question):
     context = "\n\n".join(contexts)
 
     return (
+        
         context[:CONTEXT_LIMIT],
         retrieved_docs,
         retrieval_time
